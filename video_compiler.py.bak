@@ -1,0 +1,83 @@
+import os
+import ffmpeg
+
+def compile_video(topic):
+    slides_dir = f'output/{topic}/slides'
+    audio_dir = f'output/{topic}/audio'
+    output_file = f'output/{topic}/final_video.mp4'
+    print("🎬 Starting video compilation...")
+
+    os.makedirs(f'output/{topic}', exist_ok=True)
+
+    # List audio files
+    audio_files = sorted([f for f in os.listdir(audio_dir) if f.endswith('.mp3')])
+    print(f"Found {len(audio_files)} audio files.")
+
+    temp_dir = f'output/{topic}/temp'
+    os.makedirs(temp_dir, exist_ok=True)
+
+    segment_list = []
+
+    for i, audio in enumerate(audio_files):
+        slide_num = f"{i+1:02d}"
+        audio_path = os.path.join(audio_dir, audio)
+
+        # Prefer animated video, fallback to PNG
+        animated_path = os.path.join(slides_dir, f"slide_{slide_num}_animated.mp4")
+        png_path = os.path.join(slides_dir, f"slide_{slide_num}.png")
+        seg_path = os.path.join(temp_dir, f"segment_{i:02d}.mp4")
+
+        print(f"🧩 Creating segment {i+1}: {audio}")
+
+        if os.path.exists(animated_path):
+            video_input = ffmpeg.input(animated_path)
+            print(f"✅ Using animated slide: slide_{slide_num}_animated.mp4")
+        elif os.path.exists(png_path):
+            print(f"⚠️ Animated video not found. Using static image: slide_{slide_num}.png")
+            # Create looping video from static image
+            video_input = ffmpeg.input(png_path, loop=1, framerate=1)
+        else:
+            print(f"❌ Missing both animated and PNG image for slide {slide_num}. Skipping.")
+            continue
+
+        try:
+            audio_info = ffmpeg.probe(audio_path)
+            audio_duration = float(audio_info['format']['duration'])
+
+            video_input = video_input.filter('tpad', stop_duration=audio_duration)
+            audio_input = ffmpeg.input(audio_path)
+
+            (
+                ffmpeg
+                .output(video_input, audio_input, seg_path,
+                        vcodec='libx264', acodec='aac',
+                        shortest=None, pix_fmt='yuv420p')
+                .overwrite_output()
+                .run()
+            )
+
+            segment_list.append(seg_path)
+
+        except Exception as e:
+            print(f"❌ Failed to create segment for slide {slide_num}: {e}")
+            continue
+
+    # Create concat list
+    concat_file = os.path.join(temp_dir, "concat_list.txt")
+    with open(concat_file, "w") as f:
+        for seg in segment_list:
+            f.write(f"file '{os.path.abspath(seg)}'\n")
+
+    print("📦 Stitching all segments into one final video...")
+
+    if segment_list:
+        (
+            ffmpeg
+            .input(concat_file, format='concat', safe=0)
+            .output(output_file, c='copy')
+            .overwrite_output()
+            .run()
+        )
+        print(f"✅ Final video compiled at: {output_file}")
+    else:
+        print("❌ No segments compiled. Final video not created.")

@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine the solar system as a giant cosmic neighborhood, with the Sun as the glowing center. Just like how your street has houses of different sizes, our solar system has planets of all kinds—some rocky, some icy, and some giant balls of gas. Let’s take a tour and meet the incredible worlds orbiting our Sun!",
+    "image_prompt": "A cartoon-style solar system with the Sun at the center, surrounded by planets of varying sizes and colors, set against a starry backdrop."
+  },
+  {
+    "slide": 2,
+    "text": "Meet the Sun—the ultimate powerhouse! It’s like a gigantic nuclear reactor, beaming light and heat to every planet. Without it, Earth would be a frozen wasteland. Fun fact: If the Sun were a basketball, Earth would be a tiny peppercorn over 25 meters away! That’s how vast space really is.",
+    "image_prompt": "A glowing yellow Sun with fiery solar flares, shown next to a basketball for scale, with a tiny Earth pebble far away in the distance."
+  },
+  {
+    "slide": 3,
+    "text": "Mercury is the speedster of the solar system—zooming around the Sun in just 88 days! It’s also a land of extremes: scorching hot by day and freezing cold by night. Think of it like a car left in the desert: blazing when the Sun’s out, but icy once it sets.",
+    "image_prompt": "A rocky, cratered Mercury with one half glowing under sunlight and the other half in darkness, with a thermometer showing extreme temperatures."
+  },
+  {
+    "slide": 4,
+    "text": "Venus is Earth’s ‘evil twin.’ Same size, but with a toxic atmosphere of acid clouds and temperatures hot enough to melt lead! It’s like a greenhouse gone wild. If you ever visit, bring a heatproof suit—and maybe an oxygen tank or ten.",
+    "image_prompt": "A fiery, cloudy Venus with a cracked surface, showing a futuristic astronaut struggling under extreme heat and acid rain."
+  },
+  {
+    "slide": 5,
+    "text": "Earth is the Goldilocks planet—not too hot, not too cold, just right for life. Our oceans, atmosphere, and even the Moon (our loyal sidekick) make this place special. Fun fact: You’re currently hurtling through space at 107,000 km/h as Earth orbits the Sun!",
+    "image_prompt": "A vibrant Earth from space, with blue oceans, green continents, and white clouds, alongside a small smiling Moon orbiting nearby."
+  },
+  {
+    "slide": 6,
+    "text": "Mars, the ‘Red Planet,’ is like Earth’s adventurous cousin. It has towering volcanoes, deep canyons, and even signs of ancient water. Scientists think microbes might have lived there! Future astronauts, pack your bags—this could be humanity’s next home.",
+    "image_prompt": "A rusty-red Mars landscape with Olympus Mons (a giant volcano) in the background and a rover exploring dusty terrain."
+  },
+  {
+    "slide": 7,
+    "text": "Jupiter is the solar system’s heavyweight champ—so big that all other planets could fit inside it! Its Great Red Spot is a storm bigger than Earth, raging for centuries. Imagine a hurricane that never ends! Plus, its 79 moons are like a mini solar system of their own.",
+    "image_prompt": "A massive Jupiter with swirling colorful bands and the Great Red Spot, surrounded by tiny moons like a cosmic king with its court."
+  },
+  {
+    "slide": 8,
+    "text": "Saturn is the show-off with its dazzling rings—made of billions of ice chunks, some as small as pebbles, others as big as mountains. If you could float there, you’d see a sky filled with glittering rings stretching forever. Talk about Instagram-worthy!",
+    "image_prompt": "Saturn with its bright rings tilted toward the viewer, set against a dark sky, with some ice chunks in the rings glowing in sunlight."
+  },
+  {
+    "slide": 9,
+    "text": "Uranus and Neptune are the icy rebels—they spin sideways and have supersonic winds! Uranus looks like a blue marble, while Neptune’s deep blue hides the fiercest storms. These planets are so far out, sunlight is just a faint glow. Brrr, better pack a space heater!",
+    "image_prompt": "Uranus tilted on its side and Neptune as a deep blue sphere, both with faint rings, placed far from a tiny Sun in the distance."
+  },
+  {
+    "slide": 10,
+    "text": "The solar system is just the beginning! Beyond Neptune lie dwarf planets like Pluto, comets, and a vast cloud of icy objects. Who knows what we’ll discover next? Maybe YOU will be the scientist who finds life on another world. Keep looking up—the universe is waiting!",
+    "image_prompt": "A zoomed-out view of the solar system, showing Pluto and other distant icy objects, with a ‘To Be Explored’ sign glowing in the cosmos."
+  }
+]

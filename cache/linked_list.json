@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine you're organizing a treasure hunt! Each clue leads to the next one, and you follow them step by step. A linked list works the same way—it's a chain of data where each piece points to the next. No random jumps, just a clear path. Ready to crack the code? Let’s dive in!",
+    "image_prompt": "A treasure map with connected clues leading from one to the next, animated like a chain of boxes with arrows."
+  },
+  {
+    "slide": 2,
+    "text": "Think of a linked list like a conga line! Each dancer holds onto the next person, forming a connected sequence. In a linked list, each 'node' holds data and a 'link' to the next node. If someone lets go, the line breaks—just like how links work in code! Simple, right?",
+    "image_prompt": "A lively conga line of cartoon dancers, each holding the shoulders of the next, with labels showing 'data' and 'link'."
+  },
+  {
+    "slide": 3,
+    "text": "Why use a linked list? Imagine a playlist where you can easily add or skip songs. Unlike a fixed CD, a linked list lets you insert or remove data without reshuffling everything. It’s flexible—perfect for dynamic stuff like game leaderboards or browser histories!",
+    "image_prompt": "A music playlist UI with nodes as songs, showing one song linking to the next, with '+' and '-' buttons."
+  },
+  {
+    "slide": 4,
+    "text": "Meet the 'node'—the superhero of linked lists! Each node has two powers: storing data (like a photo or number) and pointing to the next node. It’s like a train car carrying cargo and coupled to the next car. No node? The list ends there. Poof!",
+    "image_prompt": "A cartoon train with cars labeled 'data' and couplers labeled 'link,' one car detached to show a break."
+  },
+  {
+    "slide": 5,
+    "text": "The 'head' is where it all begins—the first node in the list, like the captain of a sports team. Lose the head, and the list is gone! The 'tail' is the last node, pointing to nothing. Think of it as the anchor. Together, they keep the list organized.",
+    "image_prompt": "A sports team huddle with the captain (head) leading and the last player (tail) waving, others linked like nodes."
+  },
+  {
+    "slide": 6,
+    "text": "Adding a new node? Easy! It’s like cutting into a friendship bracelet to add a bead. You update the links to weave it in. No need to remake the whole bracelet—just tweak the connections. Linked lists make insertions quick and painless!",
+    "image_prompt": "Hands weaving a friendship bracelet, inserting a new bead by rearranging threads, with arrows showing links."
+  },
+  {
+    "slide": 7,
+    "text": "Deleting a node? Snap! Imagine pulling a book from a stack—the books above drop down. But in a linked list, you just reroute the link around the node, like bypassing a fallen domino. The rest stay untouched!",
+    "image_prompt": "A domino chain with one domino falling, but the link skips it to keep the chain connected."
+  },
+  {
+    "slide": 8,
+    "text": "Linked lists aren’t perfect. Want to find the 100th item? You’ve got to walk through all 99 first—no shortcuts! It’s like a scavenger hunt where you can’t peek ahead. But for frequent additions/deletions, they’re awesome. Trade-offs, right?",
+    "image_prompt": "A frustrated cartoon character walking past 99 doors to reach the 100th, with a clock ticking."
+  },
+  {
+    "slide": 9,
+    "text": "Real-world use? Your browser’s 'back' button! Visited pages are linked in order. Hit 'back,' and you hop to the previous node. Social media feeds? Often linked lists too! They’re everywhere once you start looking.",
+    "image_prompt": "A browser window with a 'back' button, showing a chain of webpage thumbnails linked together."
+  },
+  {
+    "slide": 10,
+    "text": "Ready to master linked lists? Play with them! Code a playlist, a to-do list, or even a story where choices link to different endings. The power is in the connections. Now, go brainstorm—what cool linked list project will YOU create?",
+    "image_prompt": "A lightbulb with ideas bursting out: a music note, checklist, and branching story paths, all connected by links."
+  }
+]

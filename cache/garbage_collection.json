@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine your room is a computer’s memory. Over time, it gets cluttered with old toys, papers, and snacks—just like how a computer fills up with unused data. Garbage collection is like a cleanup robot that tidies up, making space for new stuff. Without it, your computer would slow down or crash!",
+    "image_prompt": "A messy teenager's room with a friendly robot cleaning up toys and papers, smiling as it works."
+  },
+  {
+    "slide": 2,
+    "text": "Think of garbage collection like a librarian organizing books. When books (data) are no longer needed, the librarian removes them from the shelves (memory) to make room for new ones. This keeps the library (your computer) running smoothly. No one likes a slow or crashing app, right?",
+    "image_prompt": "A futuristic librarian robot reshelving books in a glowing, high-tech library."
+  },
+  {
+    "slide": 3,
+    "text": "Ever seen a recycling truck pick up empty bottles? Garbage collection works similarly! It identifies 'empty' or unused data—like closed apps or old files—and clears them out. This helps your device stay fast and efficient. Next time your phone lags, blame the garbage collector for taking a break!",
+    "image_prompt": "A recycling truck with a computer logo, collecting glowing 'data bottles' from a digital neighborhood."
+  },
+  {
+    "slide": 4,
+    "text": "In games, when you leave a level, the old graphics and sounds aren’t needed anymore. Garbage collection sweeps them away so your device can focus on the next level. Without it, your game would stutter or freeze. Pretty cool, huh?",
+    "image_prompt": "A video game character walking away from a level while a digital broom sweeps up old graphics and sound icons."
+  },
+  {
+    "slide": 5,
+    "text": "Garbage collectors aren’t perfect—sometimes they miss stuff or take too long. That’s why programmers optimize them, just like tuning a car for better performance. Ever noticed how some apps run smoother than others? A good garbage collector is part of the secret!",
+    "image_prompt": "A mechanic tuning a high-tech engine labeled 'Garbage Collector' with speed gauges and tools."
+  },
+  {
+    "slide": 6,
+    "text": "Different devices use different garbage collectors. Your phone’s is lightweight, like a bicycle courier, while a supercomputer’s is more like a freight train—handling massive loads. The goal is the same: keep things running without wasting resources.",
+    "image_prompt": "A side-by-side comparison: a bicycle courier delivering small packages vs. a freight train carrying huge containers, both labeled 'Garbage Collector'."
+  },
+  {
+    "slide": 7,
+    "text": "Have you ever closed an app but it still runs in the background? That’s like leaving a faucet dripping. Garbage collection turns it off completely, saving battery and memory. Now you know why your phone lasts longer after a restart!",
+    "image_prompt": "A smartphone with apps running in the background, and a hand turning off a dripping faucet labeled 'Memory Leak'."
+  },
+  {
+    "slide": 8,
+    "text": "Some programming languages, like Java or Python, have built-in garbage collectors. Others, like C++, make programmers clean up manually—like taking out the trash yourself. Which would you prefer? Automation or control?",
+    "image_prompt": "Two paths: one with a robot taking out a trash bin labeled 'Java', and another with a person carrying a bin labeled 'C++'."
+  },
+  {
+    "slide": 9,
+    "text": "Garbage collection isn’t magic—it uses algorithms to decide what to delete. Some prioritize speed, others memory savings. It’s like choosing between a quick broom sweep or a deep clean. Both have pros and cons!",
+    "image_prompt": "A split-screen: one side shows a fast broom sweeping dust, the other shows a detailed vacuum cleaning corners."
+  },
+  {
+    "slide": 10,
+    "text": "Next time your device runs smoothly, thank garbage collection! It’s the unsung hero of tech. Want to learn more? Explore how programming languages handle memory—it’s a gateway to building faster, smarter apps. Who knows? You might write the next-gen garbage collector!",
+    "image_prompt": "A superhero cape draped over a garbage bin with a computer logo, flying over a city of apps and devices."
+  }
+]

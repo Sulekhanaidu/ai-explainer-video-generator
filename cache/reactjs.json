@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine building a website is like assembling LEGO blocks. ReactJS is like a magical LEGO set that helps you create interactive, fast, and reusable pieces for your website. Instead of rebuilding everything from scratch, React lets you snap together components—like buttons, menus, or posts—saving you time and effort. Cool, right? Let’s dive in!",
+    "image_prompt": "A colorful LEGO set forming a website layout, with React logo as the central piece."
+  },
+  {
+    "slide": 2,
+    "text": "Think of ReactJS as a super-smart artist. When you change something on your website—like adding a like button or updating a comment—React only redraws the parts that need changing, not the whole page. This makes your website lightning-fast! It’s like editing a single sticky note on a wall instead of rewriting the entire wall.",
+    "image_prompt": "An artist painting only a small part of a large canvas, with the rest already finished."
+  },
+  {
+    "slide": 3,
+    "text": "Ever played with building blocks that automatically update when you move one? React’s ‘state’ works like that. For example, if you build a weather app, the temperature display updates instantly when new data comes in—no manual refreshing needed. It’s like a live sports scoreboard that changes in real time!",
+    "image_prompt": "A digital weather app showing live temperature updates, with React components glowing as they change."
+  },
+  {
+    "slide": 4,
+    "text": "React lets you create reusable components—like a social media ‘post’ template. Once you design it, you can reuse it for every post, just customizing the text or images. It’s like baking cookies with the same cutter but different flavors. Write once, use everywhere!",
+    "image_prompt": "A cookie cutter stamping out social media post designs, each with unique content but the same layout."
+  },
+  {
+    "slide": 5,
+    "text": "React uses JavaScript, the language of the web, but with a twist: JSX. JSX lets you write HTML-like code inside JavaScript, making it easier to visualize your components. It’s like writing a recipe where you can see the dish taking shape as you go—no flipping between instructions and the final product!",
+    "image_prompt": "A chef writing a recipe that transforms into a website component as they jot it down."
+  },
+  {
+    "slide": 6,
+    "text": "React is like a GPS for your app’s data. It efficiently manages how information flows between components—like passing a baton in a relay race. For example, a ‘like’ count updates everywhere it’s displayed, without you manually tracking every instance. Smooth and effortless!",
+    "image_prompt": "Runners passing a glowing data baton in a relay race, with React components cheering on the track."
+  },
+  {
+    "slide": 7,
+    "text": "Big companies like Facebook, Instagram, and Netflix use React. Why? Because it scales beautifully—like building a skyscraper with modular floors. Whether it’s a small school project or a global app, React keeps things organized and efficient. Your next project could be just as powerful!",
+    "image_prompt": "A futuristic city skyline where skyscrapers are built from React components, with logos of Facebook and Netflix on them."
+  },
+  {
+    "slide": 8,
+    "text": "React has a huge community—like a never-ending hackathon where developers share free tools and solutions. Stuck? Someone’s probably already solved your problem! From animated buttons to complex charts, there’s a ‘library’ for almost everything. It’s like having a toolbox that grows every day.",
+    "image_prompt": "A bustling developer marketplace with stalls offering React components like ‘animated buttons’ or ‘data charts.’"
+  },
+  {
+    "slide": 9,
+    "text": "Want to see React in action? Try creating a simple app, like a to-do list or meme generator. Start small, experiment, and watch your ideas come to life. Remember, even experts started with ‘Hello World!’ The best way to learn? Dive in and break things—you’ll fix them and learn faster!",
+    "image_prompt": "A student coding on a laptop, with a simple to-do list app transforming into a meme generator as they type."
+  },
+  {
+    "slide": 10,
+    "text": "ReactJS is your gateway to modern web development. It’s powerful, flexible, and fun—like a Swiss Army knife for building websites. Whether you dream of creating apps, games, or the next big social platform, React can help you get there. Ready to start your coding adventure? The web is waiting for your ideas!",
+    "image_prompt": "A student holding a React-shaped key, unlocking a door to a vibrant digital universe full of apps and websites."
+  }
+]

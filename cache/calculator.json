@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine you're at the store buying snacks. You grab 3 items costing $2 each. How much do you owe? You could add 2 + 2 + 2... or use a calculator! Calculators are like super-fast math assistants, saving time and reducing errors. From homework to building rockets, they help us solve problems quickly. Ready to explore how these tiny machines work? Let's go!",
+    "image_prompt": "A student at a checkout counter holding snacks, with a calculator showing '6' on its screen, surrounded by coins and price tags."
+  },
+  {
+    "slide": 2,
+    "text": "The first calculators were people! 'Computers' was a job title for those who crunched numbers manually. Then came mechanical calculators—like giant clocks for math. Imagine carrying a 20-pound machine to class! Today’s pocket calculators are millions of times faster. Fun fact: The first electronic calculator in 1967 cost as much as a car! How did we get here? Let’s uncover the evolution.",
+    "image_prompt": "A split image: left side shows a 1800s person writing in a ledger, right side shows a modern student using a sleek calculator, with a timeline fading between them."
+  },
+  {
+    "slide": 3,
+    "text": "Your calculator is like a tiny kitchen. Numbers go in (ingredients), operations like + or × are the recipes, and the display shows your final dish—the answer! Pressing '=' is like hitting 'start' on a blender. But how does it actually calculate? It uses a language of 1s and 0s called binary, flipping switches at lightning speed. Want to see this kitchen in action?",
+    "image_prompt": "A cartoon calculator with a transparent body, revealing tiny cooking utensils inside (whisk for addition, oven for multiplication), with binary code (1010) floating around it."
+  },
+  {
+    "slide": 4,
+    "text": "Ever played a game with cheat codes? Calculators have their own secret ‘codes’! Try typing 5318008 and flipping it upside-down—you’ll see a classic prank. But real ‘hidden’ features exist too! Scientific calculators can solve equations, graph lines, and even do calculus. These tools are like Swiss Army knives for math. What else might your calculator be hiding? Time to experiment!",
+    "image_prompt": "A hand holding a scientific calculator showing '5318008' on its screen, with a thought bubble revealing the upside-down word 'BOOBIES' in a playful, pixelated font."
+  },
+  {
+    "slide": 5,
+    "text": "Think calculators are just for math class? Think again! Musicians use them to tune instruments, builders calculate materials, and even bakers adjust recipes. In science, they help track asteroid paths or chemical reactions. Your phone’s calculator can split dinner bills or convert currencies while traveling. Math is everywhere—and so are calculators! How could YOU use one in your hobbies?",
+    "image_prompt": "A collage showing diverse calculator uses: a chef measuring ingredients, an architect drawing plans, and a musician tuning a guitar, all with calculators nearby."
+  },
+  {
+    "slide": 6,
+    "text": "Why do we still use calculators if phones exist? Good question! Dedicated calculators are distraction-free—no notifications popping up during a test. They also have bigger buttons, longer battery life (some last decades!), and special keys for advanced math. It’s like choosing a bicycle over a car for a quick ride: sometimes simpler is better. What’s your tool of choice?",
+    "image_prompt": "A smartphone and calculator side by side, with the phone screen showing distracting app notifications, while the calculator displays a clean math equation."
+  },
+  {
+    "slide": 7,
+    "text": "Ever wondered how calculators never make mistakes? They follow strict logic rules step by step, like a robot chef following a recipe exactly. But GIGO applies: Garbage In, Garbage Out! If you press 5 + × 3, even a calculator gets confused. It’s a reminder that while tools are powerful, we still need to give clear instructions. What other ‘robot rules’ might exist in tech?",
+    "image_prompt": "A frustrated cartoon calculator with X-eyes, surrounded by a jumbled equation (5 + × 3) and a thought bubble showing an error message ('Syntax Error')."
+  },
+  {
+    "slide": 8,
+    "text": "Meet the calculator’s cool cousins: graphing calculators! These can plot pirate treasure maps (aka graphs), solve mysteries (equations), and even run simple games. Programmers use them to test code snippets—like mathy sticky notes. Some students have coded entire RPGs on them! Could your calculator be a mini computer? Let’s unlock its potential.",
+    "image_prompt": "A graphing calculator showing a colorful parabola graph, with a pixel-art game character jumping over an equation obstacle on the screen."
+  },
+  {
+    "slide": 9,
+    "text": "Calculators vs. Mental Math: Who wins? It’s not a battle—they’re teammates! Quick mental estimates help catch calculator typos (like entering 55 instead of 5.5). Try this: calculate 30% of 50 in your head, then check with a tool. Practicing both makes you a math ninja—fast AND accurate. Ready for a mental math challenge? Let’s try one together!",
+    "image_prompt": "A brain and a calculator arm-wrestling playfully, with a thought bubble showing '30% of 50 = 15' and a 'VS' banner above them."
+  },
+  {
+    "slide": 10,
+    "text": "From abacuses to AI, calculating tools keep evolving. Future calculators might use voice commands or holograms! But one thing won’t change: they’ll always help us explore patterns, solve problems, and understand our world. Your turn—grab a calculator and try something new: calculate your age in days, or how many pizzas you’d eat if you had one every week until graduation! Math is an adventure.",
+    "image_prompt": "A futuristic holographic calculator floating above a student's hand, with pizza slices, calendar pages, and geometric shapes orbiting around it in space-themed colors."
+  }
+]

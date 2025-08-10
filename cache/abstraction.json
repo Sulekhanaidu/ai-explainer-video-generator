@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine you're playing a video game. You don’t need to know how the controller sends signals to the screen—you just press buttons and things happen! That’s abstraction: hiding complex details so you can focus on what matters. Whether it’s games, apps, or even riding a bike, abstraction simplifies life. Let’s explore how it works!",
+    "image_prompt": "A teenager playing a video game with a controller, colorful explosions on the screen, simplified circuit lines in the background representing hidden complexity."
+  },
+  {
+    "slide": 2,
+    "text": "Think of a car. You don’t need to understand engines to drive—just press the gas and go! Abstraction lets you use things without knowing every detail. From microwaves to smartphones, it’s everywhere. What’s something you use daily without thinking about how it works?",
+    "image_prompt": "A happy student driving a cartoon car, with a transparent hood showing simplified engine parts fading into the background."
+  },
+  {
+    "slide": 3,
+    "text": "In coding, abstraction is super powerful. When you write 'print('Hello')', you don’t see the millions of electrical signals making it happen—it’s magic made simple! Programming languages hide complexity so you can create. What would you build if coding were as easy as giving instructions to a friend?",
+    "image_prompt": "A laptop screen showing simple code ('print('Hello')') with a wizard’s wand casting sparkles over it, symbolizing hidden magic."
+  },
+  {
+    "slide": 4,
+    "text": "Abstraction is like a map. A city map doesn’t show every tree or crack in the sidewalk—it gives just enough to navigate. Similarly, your brain abstracts details to help you think faster. Ever drawn a stick figure? That’s abstracting a person! What else do we simplify without realizing?",
+    "image_prompt": "A hand holding a simplified map of a city next to a detailed aerial photo, with a stick figure waving from the map."
+  },
+  {
+    "slide": 5,
+    "text": "Even emojis are abstraction! A 😊 captures happiness without showing every facial detail. Artists, engineers, and scientists all use abstraction to communicate ideas quickly. Can you think of other symbols or icons that replace complex things?",
+    "image_prompt": "A smartphone screen filled with emojis, with a happy face emoji morphing into a detailed portrait and back again."
+  },
+  {
+    "slide": 6,
+    "text": "Musicians use abstraction too! Sheet music represents sounds with notes—you don’t see air vibrating. A single note can stand for a whole symphony of physics. Abstraction turns chaos into creativity. What’s your favorite song? Imagine it as just a few lines on paper!",
+    "image_prompt": "A musical note floating above a bustling orchestra, with sound waves transforming into sheet music notes."
+  },
+  {
+    "slide": 7,
+    "text": "In math, ‘+’ is abstraction. You don’t draw 2 apples + 3 apples every time—you just write ‘2 + 3’. Algebra takes it further: ‘x’ can stand for any number! Abstraction helps solve real-world problems efficiently. How could you use ‘x’ in your life?",
+    "image_prompt": "A chalkboard with ‘2 + 3 = 5’ next to apples, morphing into algebraic equations like ‘x + y = z’."
+  },
+  {
+    "slide": 8,
+    "text": "Your brain abstracts memories too! You remember your birthday party as highlights, not every millisecond. This helps you learn and tell stories. But beware—oversimplifying can lead to stereotypes. When has abstraction helped or misled you?",
+    "image_prompt": "A brain with a film reel inside showing quick snapshots of a birthday party, cake, and friends laughing."
+  },
+  {
+    "slide": 9,
+    "text": "Abstraction fuels innovation. The first airplanes abstracted bird flight—no feathers needed! Today, engineers abstract ideas to build robots, AI, and more. What futuristic invention could you design by simplifying nature’s complexity?",
+    "image_prompt": "A retro-futuristic airplane with bird wings next to a modern drone, surrounded by lightbulb ideas floating in the background."
+  },
+  {
+    "slide": 10,
+    "text": "Now it’s your turn! Use abstraction to tackle problems: focus on the big picture, then drill deeper. Draw, code, write—simplify to create. Look around: where do YOU see abstraction hiding in plain sight? Share your favorite example!",
+    "image_prompt": "A diverse group of students brainstorming on a whiteboard, with doodles of emojis, code, and musical notes radiating from their heads."
+  }
+]

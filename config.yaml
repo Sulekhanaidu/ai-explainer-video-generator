@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    admin:
+      name: Admin
+      password: '$2b$12$q.tOsPK/UxMa6AhY8xLL8uJuvacx0ZDoQgWO/E0A14JARwyxaORkW'  # openai123
+    thinkingcode:
+      name: Thinking code 
+      password: '$2b$12$uhoLIu1S8qN1RUZiu8hMo.tlOQsC441vTKm9G119OBrfGUG86hSDW'  
+
+cookie:
+  expiry_days: 30
+  key: auth_key
+  name: explainer_app

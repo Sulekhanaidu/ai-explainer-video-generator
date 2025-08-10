@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine you're building a robot. Before it can do anything, you need to assemble its parts and power it on. In Java, a constructor is like that initial setup—it prepares an object for action! Today, we’ll explore how constructors work, why they’re useful, and how they bring your code to life. Ready to dive in?",
+    "image_prompt": "A futuristic robot being assembled by a team of students, with tools and blueprints scattered around."
+  },
+  {
+    "slide": 2,
+    "text": "Think of a constructor as a special recipe for creating objects in Java. Just like a recipe tells you how to mix ingredients to bake a cake, a constructor defines how an object is initialized. Without it, your object might be 'half-baked'—missing key details it needs to work properly!",
+    "image_prompt": "A chef holding a recipe book next to a half-baked cake, with Java code overlayed like ingredients."
+  },
+  {
+    "slide": 3,
+    "text": "Constructors have the same name as the class—like a birth certificate matching a person’s name. When you write 'new Car()', you’re calling the Car class’s constructor. It’s the first method that runs, setting up the object’s initial state. No middle names or nicknames here—just a perfect match!",
+    "image_prompt": "A birth certificate with 'Car' as the name, next to a shiny new car object emerging from a Java document."
+  },
+  {
+    "slide": 4,
+    "text": "There are two types of constructors: default and custom. The default is like a basic phone—it works, but lacks fancy features. If you don’t write one, Java provides it automatically. But with a custom constructor, you’re the boss! You decide what values the object starts with, like setting a phone’s wallpaper and apps.",
+    "image_prompt": "A basic phone vs. a customizable smartphone, with Java code snippets as apps on the screen."
+  },
+  {
+    "slide": 5,
+    "text": "Let’s build a 'Student' object. A custom constructor could require a name and grade upfront—just like your school needs these details when you enroll. No blank slates allowed! This ensures every 'Student' object is ready to go from the start.",
+    "image_prompt": "A student registration form with fields for name and grade, transforming into a Java 'Student' object."
+  },
+  {
+    "slide": 6,
+    "text": "Constructors can also be overloaded—like having multiple doorways into a building. One constructor might take just a name, while another takes name and age. Java picks the right one based on what you provide. Flexibility at its finest!",
+    "image_prompt": "A building with multiple entrances labeled with different constructor parameters, like 'name' and 'name + age'."
+  },
+  {
+    "slide": 7,
+    "text": "What if you forget to call a constructor? Try driving a car without starting the engine! Your code will crash because the object isn’t properly initialized. Constructors ensure everything is in place, just like buckling your seatbelt before a ride.",
+    "image_prompt": "A car with its engine off and a sad face, next to a Java error message saying 'Object not initialized'."
+  },
+  {
+    "slide": 8,
+    "text": "Constructors can even call other constructors—like passing the baton in a relay race. Using 'this()', one constructor can reuse code from another, saving time and keeping things tidy. Teamwork makes the dream work!",
+    "image_prompt": "Runners in a relay race passing a baton labeled 'this()', with Java code as the race track."
+  },
+  {
+    "slide": 9,
+    "text": "Ever seen a 'No-argument' constructor? It’s like ordering a pizza with just cheese—no toppings, but still functional! Sometimes, simple is all you need. Java provides this if you don’t define any constructors, but you can also write your own for clarity.",
+    "image_prompt": "A plain cheese pizza with a 'No-args Constructor' label, next to a Java class definition."
+  },
+  {
+    "slide": 10,
+    "text": "Now it’s your turn! Try creating a 'GameCharacter' class with constructors for different traits—name, level, or weapons. Experiment, make mistakes, and learn. Constructors are your first step toward mastering object-oriented programming. What will you build next?",
+    "image_prompt": "A fantasy game character customization screen with Java code as the menu options, like 'setName()' or 'setWeapon()'."
+  }
+]

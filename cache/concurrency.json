@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine you’re at a busy pizza party! You’re chatting with friends, grabbing slices, and dancing—all at once. That’s concurrency: doing multiple things at the same time! In tech, it’s how computers handle many tasks simultaneously. Think of your phone streaming music while you text. Ready to dive into the world of multitasking machines? Let’s go!",
+    "image_prompt": "A lively pizza party with teens multitasking—eating, talking, and dancing—with a smartphone screen overlay showing apps running simultaneously."
+  },
+  {
+    "slide": 2,
+    "text": "Meet Alex and Sam, two baristas in a café. Alex makes one coffee at a time, while Sam multitasks—grinding beans while steaming milk. Sam’s way is faster, right? That’s concurrency in action! Computers use this idea to speed things up. Without it, your games would freeze every time you got a text!",
+    "image_prompt": "Two baristas in a café: one making coffee step-by-step, the other multitasking. A split-screen with a computer running a game and receiving messages."
+  },
+  {
+    "slide": 3,
+    "text": "Ever played a multiplayer online game? Your character moves while others battle nearby—all happening at once! Concurrency makes this possible. It’s like a juggler keeping multiple balls in the air. Each ball is a task, and the juggler’s hands are the computer’s processors. Drop one ball, and the whole show stumbles!",
+    "image_prompt": "A futuristic multiplayer game scene with avatars fighting, and a juggler in the background with glowing balls representing tasks."
+  },
+  {
+    "slide": 4,
+    "text": "Think of concurrency like a school group project. Each member works on their part (research, slides, script) at the same time. But what if two people try to edit the slides together? Chaos! Computers face this too—it’s called a ‘race condition.’ Luckily, they have clever ways to stay organized!",
+    "image_prompt": "A group of students collaborating on a project, with two reaching for the same laptop. A pop-up shows a computer error message."
+  },
+  {
+    "slide": 5,
+    "text": "Traffic lights manage cars at intersections—a real-world concurrency system! Without them, cars would crash. Computers use similar ‘signals’ to coordinate tasks. Ever noticed how your video call adjusts when you open another app? That’s concurrency with good traffic control!",
+    "image_prompt": "An intersection with smart traffic lights, overlayed with a computer managing apps like video calls and browsers."
+  },
+  {
+    "slide": 6,
+    "text": "Concurrency isn’t just for computers! Your brain does it too—listening to music while doing homework. But sometimes, you miss a lyric or make a typo. Computers face similar trade-offs: speed vs. accuracy. The key is balance!",
+    "image_prompt": "A student with headphones on, typing on a laptop with thought bubbles showing music notes and math equations."
+  },
+  {
+    "slide": 7,
+    "text": "Ever seen a chef cook multiple orders at once? They chop veggies while checking the oven. Computers ‘context-switch’ like this—saving progress on one task to work on another. Too much switching? Things slow down. It’s why your laptop fans whir when you have 20 tabs open!",
+    "image_prompt": "A chef juggling pans and timers, with a laptop screen split into tabs and a cooling fan animation."
+  },
+  {
+    "slide": 8,
+    "text": "Concurrency powers cool tech! Self-driving cars sense traffic, navigate, and avoid obstacles—all in real time. Robots use it too. Imagine a drone delivering pizza while dodging birds—that’s concurrency in the wild! What futuristic multitasking can you dream up?",
+    "image_prompt": "A self-driving car and a delivery drone in action, with thought bubbles showing their simultaneous tasks."
+  },
+  {
+    "slide": 9,
+    "text": "But concurrency has limits. Try running 100 apps at once—your computer might crash! It’s like a teacher grading papers while hosting a club and answering emails. Even experts hit bottlenecks. The solution? Smarter systems, like adding more ‘helpers’ (processors) or better organization (algorithms).",
+    "image_prompt": "A overwhelmed teacher at a desk piled with tasks, alongside a computer with a ‘system overload’ warning."
+  },
+  {
+    "slide": 10,
+    "text": "Now you know concurrency is everywhere—from gaming to AI! It’s what lets tech keep up with our busy lives. Next time your phone multitasks smoothly, remember: it’s a master of concurrency. Want to learn more? Explore coding, robotics, or even how your brain multitasks! The future is concurrent—are you ready?",
+    "image_prompt": "A futuristic cityscape with gadgets, robots, and students collaborating, with a ‘Concurrency Everywhere’ banner."
+  }
+]

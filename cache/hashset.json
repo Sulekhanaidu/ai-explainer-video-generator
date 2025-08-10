@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine you have a magical backpack that never gets heavy, no matter how much you put in it. But here’s the catch: it only keeps unique items—no duplicates allowed! This is exactly what a HashSet does in programming. It’s a super-smart collection that stores only unique elements, making it lightning-fast to check if something’s already inside. Cool, right?",
+    "image_prompt": "A magical backpack floating in the air, with unique items like a soccer ball, a book, and a guitar inside, while duplicate items fade away."
+  },
+  {
+    "slide": 2,
+    "text": "Think of a HashSet like your school’s attendance list. Each student’s name is unique—no two students have the exact same name. The teacher quickly checks the list to see if you’re present. Similarly, a HashSet checks for duplicates in a flash, saving time and effort. No double entries, no confusion!",
+    "image_prompt": "A teacher holding a digital attendance list with glowing unique student names, while duplicate names are crossed out with a big red X."
+  },
+  {
+    "slide": 3,
+    "text": "Ever played a game where you collect unique trading cards? If you try to add a card you already have, it just won’t go into your collection. A HashSet works the same way! It uses a special ‘hash code’—like a fingerprint—to instantly know if an item is new or a repeat. No duplicates, just pure efficiency!",
+    "image_prompt": "A hand holding a glowing trading card with a unique holographic design, while a duplicate card crumbles into dust."
+  },
+  {
+    "slide": 4,
+    "text": "Picture a library where every book has a unique ID. The librarian knows exactly where to find it—no searching through endless shelves! A HashSet is like that librarian. It uses ‘hashing’ to assign a unique spot for each item, making searches and additions incredibly fast. No clutter, no delays!",
+    "image_prompt": "A futuristic library with books floating in mid-air, each glowing with a unique barcode, while a robot librarian scans them instantly."
+  },
+  {
+    "slide": 5,
+    "text": "Why does uniqueness matter? Imagine your playlist filled with the same song on repeat—annoying, right? A HashSet ensures variety by rejecting duplicates. Whether it’s usernames, product IDs, or even ingredients in a recipe, HashSets keep things clean and efficient. No repeats, just the good stuff!",
+    "image_prompt": "A music playlist on a smartphone screen showing unique song titles, while duplicate songs explode into colorful confetti."
+  },
+  {
+    "slide": 6,
+    "text": "Here’s a fun fact: HashSets don’t care about order! Unlike a list where items stay in sequence, a HashSet organizes items based on their ‘hash code.’ It’s like tossing your toys into a bin—they’re all in there, but not in any particular order. Fast to find, but don’t expect them to line up neatly!",
+    "image_prompt": "A toy bin with colorful toys scattered randomly inside, each glowing with a unique tag, while a hand reaches in to grab one instantly."
+  },
+  {
+    "slide": 7,
+    "text": "Ever tried finding a friend in a crowded mall? With a HashSet, it’s like your friend has a GPS tracker! The ‘hash code’ acts like coordinates, leading you straight to them. No wandering around—just quick, direct access. That’s why HashSets are perfect for massive datasets where speed is key!",
+    "image_prompt": "A crowded mall with a glowing arrow pointing directly to a smiling friend, while other people blur into the background."
+  },
+  {
+    "slide": 8,
+    "text": "But wait—what if two items have the same ‘hash code’? It’s like two students having the same locker combination! A HashSet handles this with ‘collision resolution,’ creating a mini-list inside the locker. It’s rare, but the system’s smart enough to manage it. Even in chaos, HashSets stay reliable!",
+    "image_prompt": "A school locker with two backpacks inside, each tagged with a unique name, while a small robot organizes them neatly."
+  },
+  {
+    "slide": 9,
+    "text": "Where might you use a HashSet? Think of a social media app checking for unique usernames, or a game tracking collected power-ups. Even spell-checkers use HashSets to store words! Anywhere you need uniqueness and speed, HashSets are the go-to tool. They’re the unsung heroes of coding!",
+    "image_prompt": "A smartphone screen showing a social media sign-up form, a game with glowing power-ups, and a spell-checker, all connected by a HashSet symbol."
+  },
+  {
+    "slide": 10,
+    "text": "Ready to try HashSets yourself? Start by imagining real-world collections where duplicates don’t belong—like your favorite playlist or a contact list. Then, dive into code! Experiment, explore, and see how HashSets make your programs smarter and faster. The world of unique data awaits. Go create something amazing!",
+    "image_prompt": "A student at a computer, typing code with a HashSet visualization on the screen, while icons of unique items like music notes and contacts float around."
+  }
+]

@@ -1,0 +1,120 @@
+1. Tools You Should Have Installed:
+Tool	Purpose	Installation
+1)Python	Main language (recommend 3.9–3.11)	https://www.python.org/downloads/
+2)FFmpeg	Video/audio processing backend	https://ffmpeg.org/download.html
+
+2. Create a virtual environment
+python -m venv explainer_env
+explainer_env\\Scripts\\activate (for windows)
+
+3. Install Dependencies
+
+pip install -r requirements.txt
+requirements.txt contatins below dependencies,
+openai
+ffmpeg-python
+Pillow
+requests
+
+4. Install FFmpeg (Required for video generation)
+Go to this official build provider:
+👉 https://www.gyan.dev/ffmpeg/builds/
+
+Scroll to the section:
+“Release builds”
+
+Click the link for:
+✅ ffmpeg-release-essentials.zip
+ffmpeg-6.0-essentials_build/bin/ add in the environment variables
+
+5. Run the Application
+python main.py
+
+6. pip install TTS (Coqui TTS Setup)
+To install TTS we need Install Microsoft C++ Build Tools
+You need to install Microsoft Visual C++ 14.0 or greater using the official build tools.
+
+🔽 Step-by-Step Instructions
+Go to this link:
+👉 https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+Click Download Build Tools
+
+Run the installer:
+
+When the Visual Studio Installer opens, select:
+✅ C++ build tools
+
+Under the “Installation details” pane, ensure these are checked:
+
+✅ MSVC v142 (or higher)
+
+✅ Windows 10/11 SDK
+
+✅ C++ CMake tools for Windows
+
+Click Install (it may take a few minutes)
+
+After Installation
+Once the build tools are installed:
+
+Close and reopen your command prompt or terminal.
+
+Try installing Coqui TTS again:
+pip install TTS
+
+7. Navigate to your project folder (where main.py is) using cmd
+explainer_env\\Scripts\\activate (for windows)
+
+8. real FFmpeg commands (For Video compiler)
+pip install ffmpeg-python
+
+9. Streamlit UI with video
+pip install streamlit
+streamlit run app.py
+Open in browser: http://localhost:8501 
+
+10. Subtitle Generation
+pip install numpy==1.24.4
+pip install numba==0.57.1
+python whisper_subtitle_generator.py
+Output - Generated: output/subtitles/slide_01.srt etc
+python merge_srt_slides.py
+Final output - output/subtitles/final_subtitles.srt
+pip install ffmpeg-python
+
+
+11.For Ollama setup
+Go to https://ollama.com/download
+Open a terminal (Command Prompt or PowerShell)
+
+Start the Ollama server by running:
+ollama serve
+You can also install it as a background service or auto-start with system boot.
+Pull the LLaMA3 model
+ollama run llama3
+This will download (~4GB) and run the model.
+
+You’ll see a prompt where you can type questions to the LLM.
+
+
+12. For images in the slides (hugging face)
+pip install requests
+https://platform.stability.ai/account/keys
+API_KEY = "sk-VHxzg5PVaDjXZhdy4ZGxOjp6cXucH4RUFaYpQC3Y9CJJdaVn"
+
+
+Given by Prashanth for script generation
+sk-0c3bb21abd1b470a9675bef005303235
+ 
+DeepSeek-R1
+
+13.Auth based
+pip install streamlit streamlit-authenticator
+You can generate a hashed password using:
+import streamlit_authenticator as stauth
+hashed_pw = stauth.Hasher(['openai123']).generate()
+print(hashed_pw[0])
+
+14.pip install pydub for audio duration
+ 

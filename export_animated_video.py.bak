@@ -1,0 +1,22 @@
+
+from moviepy.editor import ImageClip
+import os
+
+def export_animated_video(image_path, output_path, duration=5, zoom_factor=0.1):
+    if not os.path.exists(image_path):
+        raise FileNotFoundError(f"Image not found: {image_path}")
+
+    print(f"🎞️ Animating image: {image_path}")
+
+    # Create image clip
+    base_clip = ImageClip(image_path).set_duration(duration).resize(height=720)
+
+    # Apply zoom effect using built-in resize with lambda
+    animated_clip = base_clip.resize(lambda t: 1 + zoom_factor * t)
+
+    # Ensure output is standard size
+    animated_clip = animated_clip.resize((1280, 720))
+
+    # Export the animated clip
+    animated_clip.write_videofile(output_path, fps=24)
+    print(f"✅ Exported animated video: {output_path}")

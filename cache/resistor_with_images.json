@@ -1,0 +1,77 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine a world without resistors—your gadgets would overheat, circuits would fry, and your favorite devices would stop working! Resistors are the unsung heroes of electronics, controlling the flow of electricity like a traffic cop directs cars. Let’s dive into the electrifying world of resistors and discover how they keep our tech running smoothly!",
+    "image_prompt": "Vibrant futuristic classroom with teens interacting with holographic screens, neon colors, sci-fi style, cinematic lighting, ultra-detailed, anime-inspired, cyberpunk aesthetic, high contrast shadows and glow, stylish teen fashion, modern gadgets like AR glasses and smartwatches, dynamic camera angle, glowing user interfaces, soft ambient neon reflections on surfaces, energetic and immersive atmosphere"
+  },
+  {
+    "slide": 2,
+    "text": "Resistors are tiny but mighty components in every electronic device. They resist the flow of electric current, ensuring just the right amount of power reaches each part. Think of them as the brakes in a car—without them, everything would go haywire! From your phone to your gaming console, resistors are everywhere, working silently behind the scenes.",
+    "image_prompt": "Close-up of a glowing circuit board with teens examining it through AR glasses, neon highlights on components, futuristic vibe"
+  },
+  {
+    "slide": 3,
+    "text": "Ever wondered how resistors work? It’s all about Ohm’s Law! Voltage, current, and resistance are like a trio of best friends. The higher the resistance, the lower the current. It’s like squeezing a water hose—the tighter you squeeze (resistance), the less water (current) flows. Simple, right?",
+    "image_prompt": "Holographic diagram of Ohm’s Law floating in mid-air, teens pointing and discussing, neon equations glowing"
+  },
+  {
+    "slide": 4,
+    "text": "Resistors come in all shapes and sizes, each with a unique job. Fixed resistors have a set resistance, while variable resistors (like volume knobs) let you adjust it. There are even special resistors that change with temperature or light! It’s like having a toolbox full of different wrenches for every job.",
+    "image_prompt": "A teen holding a variety of resistors, each glowing with different neon colors, futuristic lab backdrop"
+  },
+  {
+    "slide": 5,
+    "text": "Color coding is the secret language of resistors! Those colorful bands aren’t just for show—they tell you the resistance value. Red, orange, gold? It’s like decoding a secret message. With a little practice, you’ll be reading resistor codes like a pro!",
+    "image_prompt": "A teen using AR glasses to decode resistor color bands, neon color charts floating in the air"
+  },
+  {
+    "slide": 6,
+    "text": "Resistors aren’t just for boring old circuits—they’re in your favorite gadgets too! Your headphones use them to control volume, your bike’s LED lights rely on them, and even your smartwatch needs resistors to function. Next time you use your phone, thank a resistor!",
+    "image_prompt": "Teens using high-tech gadgets, resistors highlighted in neon glow inside devices, cyberpunk aesthetic"
+  },
+  {
+    "slide": 7,
+    "text": "What happens if a resistor fails? Chaos! Too much current can fry components, causing sparks or even fires. That’s why engineers carefully calculate resistor values. It’s like building a bridge—you need the right materials to handle the weight, or disaster strikes!",
+    "image_prompt": "Holographic simulation of a circuit overheating, teens reacting with surprise, neon sparks flying"
+  },
+  {
+    "slide": 8,
+    "text": "Resistors team up in circuits in two ways: series and parallel. In series, they add up like links in a chain. In parallel, they share the load like friends carrying a heavy table. Both setups have cool uses, from dimmer switches to power dividers!",
+    "image_prompt": "Interactive holographic circuits showing series vs. parallel, teens dragging resistors into place with gestures"
+  },
+  {
+    "slide": 9,
+    "text": "Meet the potentiometer—a resistor you can tweak! It’s the magic behind volume knobs, light dimmers, and even game controllers. Turn it left or right, and you’re changing resistance on the fly. It’s like having a dimmer switch for electricity!",
+    "image_prompt": "A teen adjusting a glowing potentiometer, neon sliders and dials responding in real-time"
+  },
+  {
+    "slide": 10,
+    "text": "Ever heard of a thermistor? This smart resistor changes with temperature! It’s used in thermostats, car engines, and even coffee makers. When it gets hot, its resistance drops—like a superhero adapting to save the day!",
+    "image_prompt": "A teen holding a thermistor near a holographic flame, resistance values fluctuating in neon digits"
+  },
+  {
+    "slide": 11,
+    "text": "Light-dependent resistors (LDRs) are the spies of the resistor world. They detect light levels, like in streetlights that turn on at dusk or your phone’s auto-brightness. Shine a light on them, and their resistance drops—it’s like they’re shy!",
+    "image_prompt": "Teens experimenting with LDRs under colorful neon lights, resistance values projected in AR"
+  },
+  {
+    "slide": 12,
+    "text": "Resistors are eco-warriors too! They help save energy by controlling power flow, reducing waste, and preventing overheating. Without them, devices would guzzle electricity like a thirsty dragon. Resistors: saving the planet, one circuit at a time!",
+    "image_prompt": "Holographic Earth with circuits wrapping around it, teens high-fiving over energy-saving stats"
+  },
+  {
+    "slide": 13,
+    "text": "Ready to experiment? Grab a resistor, a battery, and an LED—build your first circuit! Watch as the resistor protects the LED from too much current. It’s like giving the LED a safety helmet. Tinker, explore, and discover the joy of electronics!",
+    "image_prompt": "Teens building circuits on a glowing desk, components snapping into place with neon sparks"
+  },
+  {
+    "slide": 14,
+    "text": "Resistors are the quiet champions of technology. From your phone to Mars rovers, they’re everywhere, making sure everything runs smoothly. Next time you flip a switch, remember—there’s a tiny resistor working hard to make it happen!",
+    "image_prompt": "Montage of futuristic tech with resistors highlighted, teens cheering in a high-energy classroom"
+  },
+  {
+    "slide": 15,
+    "text": "Now it’s your turn! Explore, experiment, and embrace the power of resistors. Who knows—you might invent the next big tech breakthrough. The future of electronics is in your hands. Go out there and make some sparks fly!",
+    "image_prompt": "Teens celebrating with glowing circuits, confetti-like neon components raining down, futuristic cityscape through windows"
+  }
+]

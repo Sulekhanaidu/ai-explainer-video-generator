@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine you’re moving to a new house. Instead of packing every single item one by one, what if you could pack entire rooms exactly as they are? Docker is like that for software! It bundles apps and their environments into neat 'containers,' so they run smoothly anywhere. No more 'but it works on my computer' problems!",
+    "image_prompt": "A futuristic moving truck loading colorful, self-contained rooms with apps and tools inside, ready to be transported."
+  },
+  {
+    "slide": 2,
+    "text": "Think of Docker containers like lunchboxes. Each lunchbox has a meal (your app), utensils (tools), and a recipe (settings)—all separate from others. Your spaghetti won’t mix with your friend’s salad! Docker keeps apps isolated but lets them share your computer’s 'kitchen' (resources) efficiently.",
+    "image_prompt": "A table with multiple lunchboxes, each containing different meals and utensils, symbolizing isolated but coexisting containers."
+  },
+  {
+    "slide": 3,
+    "text": "Ever played a game that crashed because of outdated drivers? With Docker, apps bring their own 'playground'—libraries, settings, everything! It’s like carrying a gaming console with the perfect setup wherever you go. No more compatibility headaches!",
+    "image_prompt": "A handheld gaming console with a game running flawlessly, surrounded by a glowing 'bubble' representing its self-contained environment."
+  },
+  {
+    "slide": 4,
+    "text": "Docker isn’t magic—it uses your computer’s OS like a shared stage. Containers are actors with their own costumes (apps) but no need for separate stages. Virtual machines, on the other hand, build whole new stages! Docker is lighter and faster, perfect for quick scene changes.",
+    "image_prompt": "A theater stage with multiple actors (containers) performing simultaneously, contrasted with a split stage showing heavy VM setups."
+  },
+  {
+    "slide": 5,
+    "text": "How do containers talk? Through Docker’s network! Picture a school project where teams (containers) pass notes (data) via a teacher (Docker). They collaborate without stepping on each other’s toes. Need a database? Just add another 'team'!",
+    "image_prompt": "A classroom with groups of students (containers) exchanging colorful notes over a network diagram drawn on the floor."
+  },
+  {
+    "slide": 6,
+    "text": "Dockerfiles are like LEGO instructions. They list steps to build your container: 'Start with Ubuntu, add Python, then copy my app code.' Run the file, and boom—your app is ready! No manual setup, just repeatable, shareable recipes.",
+    "image_prompt": "A LEGO instruction manual with Docker logos, showing blocks snapping together to form a container structure."
+  },
+  {
+    "slide": 7,
+    "text": "Docker Hub is the app store for containers. Need a Minecraft server? Pull a pre-built image! Want to share your chatbot? Upload it! It’s like GitHub, but for ready-to-run environments. Why build from scratch when you can remix?",
+    "image_prompt": "A vibrant app store interface labeled 'Docker Hub,' featuring popular container icons like Minecraft, chatbots, and databases."
+  },
+  {
+    "slide": 8,
+    "text": "Devs love Docker for testing. Imagine testing a game mod in a sealed bubble—if it crashes, just pop the bubble! No harm to your PC. Docker lets you experiment fearlessly, then clean up with one command. Perfect for coding projects!",
+    "image_prompt": "A scientist (developer) in a lab coat testing explosions inside transparent bubbles (containers), smiling as bubbles reset after crashes."
+  },
+  {
+    "slide": 9,
+    "text": "From Netflix to NASA, big companies use Docker to scale apps instantly. Picture a pizza shop: Docker lets them clone their best kitchen (container) to 100 branches overnight. No chaos—just perfect pizza everywhere!",
+    "image_prompt": "A pizza shop with a 'Docker Kitchen' label, splitting into identical ghost kitchens to serve endless orders."
+  },
+  {
+    "slide": 10,
+    "text": "Ready to dive in? Install Docker, grab an image from Docker Hub, or build your own with a Dockerfile. Start small: containerize a website or a Python script. The tech world runs on containers now—why not yours?",
+    "image_prompt": "A student at a laptop with a 'Docker Install Complete' screen, surrounded by floating container icons and a 'Welcome!' banner."
+  }
+]

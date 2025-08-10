@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine you're organizing your music library. You group songs by genre, mood, or artist. Embeddings do something similar—but for words, images, or even ideas! They turn complex things into simple lists of numbers that capture their essence. Think of it like a secret code that helps computers understand connections. Ready to crack the code? Let’s dive in!",
+    "image_prompt": "A teenager organizing a digital music library with colorful genre tags, while a friendly robot watches and nods in approval."
+  },
+  {
+    "slide": 2,
+    "text": "Words can be tricky for computers. How does a machine know 'happy' and 'joyful' are similar? Embeddings help! They assign each word a unique set of numbers—like coordinates on a map. Words with similar meanings end up close together. It’s like plotting your favorite pizza places on a map—the tastiest ones cluster in the same neighborhood!",
+    "image_prompt": "A map with words like 'happy,' 'joyful,' and 'excited' clustered together like popular hangout spots, while 'sad' and 'angry' are far away."
+  },
+  {
+    "slide": 3,
+    "text": "Ever noticed how Instagram suggests filters based on your photos? Embeddings help with that! They turn your selfie into numbers that describe colors, shapes, and moods. A sunset photo might be [0.9, 0.2, 0.5]—bright, warm, and peaceful. The computer uses these numbers to recommend the perfect filter. Magic? Nope—just math!",
+    "image_prompt": "A smartphone screen showing a selfie transforming into glowing numbers, with fun filters popping up beside it."
+  },
+  {
+    "slide": 4,
+    "text": "Remember playing 'Which of these doesn’t belong?' Embeddings ace that game! If you give a computer 'apple, banana, carrot, skateboard,' it’ll spot the odd one out. How? The numbers for fruits are closer together, while 'skateboard' is far off. It’s like realizing your sneaker doesn’t belong in the fridge!",
+    "image_prompt": "A comical scene of fruits and a skateboard on a number line, with the skateboard looking confused as fruits huddle together."
+  },
+  {
+    "slide": 5,
+    "text": "Embeddings aren’t just for words—they work for songs too! Spotify uses them to recommend playlists. If you love a punk rock song, embeddings find others with similar energy, tempo, and vibes. It’s like a music-savvy friend who always knows your mood. Next time you discover a new favorite song, thank embeddings!",
+    "image_prompt": "A Spotify playlist screen with punk rock songs, connected by glowing lines to similar tracks, like a musical spiderweb."
+  },
+  {
+    "slide": 6,
+    "text": "Ever wondered how Netflix knows you’d love a sci-fi movie? Embeddings analyze plots, actors, and even colors in posters! A space adventure like 'Stranger Things' gets numbers close to 'Star Wars'—so Netflix suggests both. It’s like a movie matchmaker, but with math. Binge-watching just got a tech upgrade!",
+    "image_prompt": "A Netflix-style interface showing sci-fi movie posters connected by glowing threads, with a popcorn bucket smiling approvingly."
+  },
+  {
+    "slide": 7,
+    "text": "Embeddings even help robots 'see.' A self-driving car uses them to identify pedestrians, signs, and trees. The car converts what its camera sees into numbers—like '[0.3, 0.8] = stop sign.' It’s the robot’s way of saying, 'I recognize that!' Pretty cool for a bunch of digits, right?",
+    "image_prompt": "A self-driving car’s perspective: street objects like stop signs and pedestrians labeled with floating numbers, as the car 'thinks' in code."
+  },
+  {
+    "slide": 8,
+    "text": "Here’s a wild thought: embeddings could represent YOU! Your social media posts, likes, and chats could be turned into numbers describing your personality. Scary? Not really—it’s how apps suggest friends or memes you’ll love. Just remember: you’re way more than numbers. Embeddings are just a tool—like a high-tech pencil!",
+    "image_prompt": "A silhouette of a teen with their hobbies (guitar, books, soccer) transforming into a colorful number cloud, with a thumbs-up emoji floating nearby."
+  },
+  {
+    "slide": 9,
+    "text": "Want to play with embeddings? Try typing 'king - man + woman' into an AI tool. The result? 'Queen!' Embeddings solve word puzzles by adding and subtracting meanings. It’s like math class, but for words. Who knew numbers could be this poetic? Give it a try—you’ll feel like a word wizard!",
+    "image_prompt": "A blackboard with the equation 'king - man + woman = queen' written in chalk, surrounded by floating crowns and sparkles."
+  },
+  {
+    "slide": 10,
+    "text": "So, embeddings are the unsung heroes of AI—turning messy, real-world stuff into numbers computers get. They power recommendations, translations, and even medical research! Next time your phone 'gets' you, you’ll know the secret. Ready to geek out? The world of embeddings is waiting. What will YOU explore with them?",
+    "image_prompt": "A diverse group of students brainstorming with laptops, robots, and glowing number clouds above them, symbolizing creative AI ideas."
+  }
+]

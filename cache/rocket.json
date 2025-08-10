@@ -1,0 +1,12 @@
+[
+  {
+    "slide": 1,
+    "text": "Did you know rockets work like giant soda bottles? When you shake a soda and open it, the pressure shoots the liquid out—rockets use the same idea, but with fiery exhaust! Take SpaceX’s Falcon 9: it burns fuel to create thrust, launching into space. Think of it as a controlled explosion pushing against the ground. How do you think scientists steer something so powerful?",
+    "image_prompt": "A rocket mid-launch, flames bursting from its engines, with a comparison inset showing a soda bottle exploding foam, illustrating the analogy of thrust."
+  },
+  {
+    "slide": 2,
+    "text": "Rockets aren’t just for space—they’re cosmic delivery trucks! The Saturn V, which sent astronauts to the Moon, was as tall as a 36-story building. Modern rockets like NASA’s SLS carry supplies to the ISS. Imagine packing your lunch, but for a trip 250 miles above Earth! What would you send to space if you could design a mission?",
+    "image_prompt": "A side-by-side illustration of the Saturn V rocket next to a skyscraper for scale, with a smaller modern rocket (like SLS) deploying a cargo capsule near the International Space Station."
+  }
+]

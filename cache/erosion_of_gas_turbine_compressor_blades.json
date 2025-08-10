@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine a jet engine as a giant vacuum cleaner, sucking in air to power the plane. The compressor blades are like the fan blades inside, spinning super fast to compress the air. But over time, these blades can wear down—just like your sneakers on a rough sidewalk. Let’s explore why this happens and how engineers tackle it!",
+    "image_prompt": "A jet engine with transparent casing showing spinning compressor blades, compared to a vacuum cleaner with visible fan blades."
+  },
+  {
+    "slide": 2,
+    "text": "Erosion is like nature’s sandpaper. Tiny particles—dust, sand, or even raindrops—hit the blades at high speeds, slowly scraping them away. Think of it like a bike wheel kicking up gravel: over time, those little hits add up! Even in clean air, erosion is inevitable. But how fast does it happen? Let’s find out!",
+    "image_prompt": "Close-up of a compressor blade with tiny particles hitting its surface, alongside a bike wheel kicking up gravel for analogy."
+  },
+  {
+    "slide": 3,
+    "text": "Real-life example: In desert regions, sandstorms blast turbine blades like a sandblaster. Airlines even avoid certain routes during storms! But erosion isn’t just from sand. Raindrops at 500 mph? They act like tiny bullets. Even ‘clean’ air has enough particles to cause wear over years. Surprised? It’s all about speed and time!",
+    "image_prompt": "A desert sandstorm near an airport, with an inset showing microscopic particles hitting a turbine blade at high speed."
+  },
+  {
+    "slide": 4,
+    "text": "Why does erosion matter? Worn blades can’t compress air efficiently, like a bike pump with loose seals. The engine works harder, burning more fuel—costing money and polluting more. In extreme cases, it can even cause engine failure! But don’t worry—engineers have clever ways to fight back. Let’s see how!",
+    "image_prompt": "A comparison between a smooth, new compressor blade and a worn, jagged one, with a bike pump leaking air as an analogy."
+  },
+  {
+    "slide": 5,
+    "text": "First defense: Materials science! Modern blades are made from super-strong titanium or nickel alloys, coated with ultra-hard layers—like giving them a suit of armor. Some coatings are even inspired by seashells, which resist erosion naturally. Nature’s ideas + human innovation = winning combo!",
+    "image_prompt": "A cross-section of a turbine blade showing its metallic core and shiny protective coating, alongside a seashell for comparison."
+  },
+  {
+    "slide": 6,
+    "text": "Second trick: Smart design. Blade shapes are curved to minimize particle impacts, like a sleek sports car cutting through air. Some have self-healing coatings that fill tiny scratches automatically—almost like your skin healing a paper cut! Engineers also use computer simulations to predict wear before it happens.",
+    "image_prompt": "A curved turbine blade with airflow lines around it, compared to a sports car aerodynamically slicing through wind."
+  },
+  {
+    "slide": 7,
+    "text": "Did you know? Airplanes have ‘particle separators’—like filters for engines! These spin incoming air to fling heavy dust outward before it hits the blades. It’s like a salad spinner tossing water off lettuce, but for sand and dirt. Still, some particles slip through… so maintenance is key!",
+    "image_prompt": "A cutaway of an engine inlet with a spinning particle separator, alongside a playful salad spinner analogy."
+  },
+  {
+    "slide": 8,
+    "text": "Speaking of maintenance, airlines inspect blades with tiny cameras and lasers. They even use AI to spot micro-cracks! Worn blades can be repaired or replaced—like swapping out worn sneakers. Some engines are designed for easy blade access, because time on the ground is money lost in aviation.",
+    "image_prompt": "A technician using a borescope (tiny camera) to inspect turbine blades, with an AI overlay highlighting cracks."
+  },
+  {
+    "slide": 9,
+    "text": "Future tech alert! Researchers are testing blades with ‘shape memory’ alloys that bend but snap back to perfect form. Others are 3D-printed with microscopic air channels to deflect particles. There’s even talk of ‘dust-repellent’ coatings inspired by lotus leaves. The fight against erosion is full of creativity!",
+    "image_prompt": "A futuristic turbine blade with glowing micro-channels and a lotus leaf repelling water droplets for analogy."
+  },
+  {
+    "slide": 10,
+    "text": "So next time you see a plane, remember: those hidden blades battle erosion every second! It’s a mix of smart materials, clever design, and constant care. Maybe YOU’LL invent the next erosion-busting tech? The sky’s not the limit—it’s just the beginning! Want to explore more? Check out how wind turbines face similar challenges!",
+    "image_prompt": "A sunset view of a jet taking off, with a transparent engine overlay showing spinning blades, and a thought bubble with futuristic tech ideas."
+  }
+]

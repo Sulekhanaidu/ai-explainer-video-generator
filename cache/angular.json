@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Ever wondered how your favorite apps like YouTube or Netflix work so smoothly? Behind the scenes, frameworks like Angular help build these dynamic websites. Angular is like the skeleton of a building—it gives structure to web apps, making them fast and interactive. Ready to dive into the world of Angular? Let’s explore how it powers the web!",
+    "image_prompt": "A futuristic city where buildings are made of code, with one skyscraper labeled 'Angular' glowing brightly."
+  },
+  {
+    "slide": 2,
+    "text": "Think of Angular like a robot chef in a kitchen. You give it ingredients (your code), and it follows recipes (templates) to cook up delicious dishes (web pages). Angular automates repetitive tasks, so developers can focus on creativity. No more manual chopping—just efficient, tasty results! How cool is that?",
+    "image_prompt": "A robot chef in a high-tech kitchen assembling a web page from colorful code ingredients like HTML, CSS, and JavaScript."
+  },
+  {
+    "slide": 3,
+    "text": "Angular uses components, like LEGO blocks, to build apps. Each block has a specific job: one displays a button, another shows a video. Snap them together, and voilà—you’ve got an app! Want to change something? Just swap a block. Easy, right? This modular design makes coding faster and more fun.",
+    "image_prompt": "A hand assembling a vibrant LEGO structure where each brick is labeled with a web component (e.g., 'header', 'search bar')."
+  },
+  {
+    "slide": 4,
+    "text": "Imagine your school’s announcement board updating instantly—no need to refresh! Angular’s 'two-way data binding' makes this magic happen. When you type in a chat app, the message appears live, just like writing on a digital whiteboard. It’s like your app reads your mind!",
+    "image_prompt": "A futuristic classroom with a floating whiteboard where text updates in real-time as a student types on a tablet."
+  },
+  {
+    "slide": 5,
+    "text": "Ever played a video game where your character moves seamlessly between levels? Angular’s router does the same for apps! Click a link, and it loads new content without reloading the page. It’s like teleporting between game worlds—smooth and lightning-fast.",
+    "image_prompt": "A gamer avatar teleporting between different app 'worlds' (e.g., a shop, a blog) connected by glowing portals."
+  },
+  {
+    "slide": 6,
+    "text": "Angular is like a multilingual translator. It lets developers write code in TypeScript (a supercharged JavaScript), then translates it for all browsers. No matter what device you use—phone, laptop, or tablet—the app works perfectly. Talk about speaking everyone’s language!",
+    "image_prompt": "A friendly robot translating code into different browser logos (Chrome, Firefox, Safari) as they cheer."
+  },
+  {
+    "slide": 7,
+    "text": "Building an app alone? Tough. But with Angular’s tools, it’s like having a team of experts. Need forms? Angular validates them. Need animations? It’s got you covered. It’s like a Swiss Army knife for developers—packed with ready-to-use features to save time and effort.",
+    "image_prompt": "A developer wielding a glowing Swiss Army knife with tools labeled 'forms', 'animations', and 'APIs'."
+  },
+  {
+    "slide": 8,
+    "text": "Big companies like Google, Microsoft, and Forbes trust Angular. Why? Because it’s reliable, scalable, and perfect for complex apps. It’s like building a skyscraper with steel beams instead of toothpicks—strong and future-proof. Dreaming of creating the next big app? Angular might be your secret weapon!",
+    "image_prompt": "A skyline of famous app logos (Gmail, Forbes) built on Angular 'steel beams', shining against a sunset."
+  },
+  {
+    "slide": 9,
+    "text": "Curious how YOU can start with Angular? First, learn HTML, CSS, and JavaScript—the ABCs of web dev. Then, explore Angular’s tutorials. It’s like leveling up in a game: master the basics, unlock new skills, and soon you’ll build apps that impress your friends (and maybe even the world)!",
+    "image_prompt": "A student climbing a staircase labeled 'Web Dev Journey', with steps like 'HTML', 'JavaScript', and 'Angular' leading to a glowing app icon."
+  },
+  {
+    "slide": 10,
+    "text": "Angular isn’t just code—it’s a gateway to creating the future. Whether you’re into gaming, social media, or robotics, Angular skills open doors. So, what will YOU build? A viral app? A game? The possibilities are endless. Grab your keyboard and start coding—your ideas could change the world!",
+    "image_prompt": "A diverse group of students collaboratively building a holographic app, with futuristic gadgets floating around them."
+  }
+]

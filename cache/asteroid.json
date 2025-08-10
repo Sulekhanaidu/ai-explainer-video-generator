@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine a space rock speeding through the solar system—this is an asteroid! Most orbit the Sun between Mars and Jupiter in the 'asteroid belt.' Some are as small as a pebble, while others, like Vesta, are as big as a country. Asteroids are leftover building blocks from the solar system’s formation—4.6 billion years ago!",
+    "image_prompt": "A colorful depiction of the asteroid belt with rocks of various sizes floating in space, a bright Sun in the background, and planets like Mars and Jupiter visible in the distance."
+  },
+  {
+    "slide": 2,
+    "text": "Asteroids aren’t just random rocks—they come in different types! Some are metallic, like cosmic treasure chests filled with iron and nickel. Others are rocky or even icy. The metallic ones could one day be mined for resources. Imagine a future where we extract materials from asteroids to build things in space!",
+    "image_prompt": "A split image showing three types of asteroids: a shiny metallic one, a rugged rocky one, and an icy comet-like asteroid, with a futuristic mining robot in the corner for scale."
+  },
+  {
+    "slide": 3,
+    "text": "Ever heard of the dinosaur extinction? A giant asteroid might be the culprit! About 66 million years ago, an asteroid the size of a city hit Earth, causing massive changes. But don’t worry—NASA tracks near-Earth asteroids to keep us safe. Most burn up harmlessly as meteors in our atmosphere—like nature’s fireworks!",
+    "image_prompt": "A dramatic scene of a large asteroid entering Earth’s atmosphere, glowing brightly, with dinosaurs silhouetted in the foreground and a modern telescope tracking asteroids in the corner."
+  },
+  {
+    "slide": 4,
+    "text": "Asteroids can be time capsules! Scientists study them to learn about the early solar system. The Hayabusa and OSIRIS-REx missions even brought back samples. Think of it like opening a 4-billion-year-old history book—written in rock and dust!",
+    "image_prompt": "A spacecraft collecting samples from a rocky asteroid, with a close-up of a scientist in a lab examining asteroid dust under a microscope."
+  },
+  {
+    "slide": 5,
+    "text": "What if an asteroid heads toward Earth? We’re not defenseless! NASA’s DART mission tested deflecting an asteroid by crashing into it—like a cosmic bumper car. Future missions might use gravity tractors or lasers. It’s like planetary defense meets sci-fi!",
+    "image_prompt": "An animation-style image of a spacecraft colliding with an asteroid, breaking it into smaller pieces, with Earth safely in the background."
+  },
+  {
+    "slide": 6,
+    "text": "Some asteroids have moons! Yes, even space rocks can have companions. Ida, an asteroid in the belt, has a tiny moon named Dactyl. It’s like a mini solar system! Some asteroids even travel in pairs, orbiting each other as they zip through space.",
+    "image_prompt": "A large asteroid with a small moon orbiting around it, set against a starry backdrop, with other asteroids visible in the distance."
+  },
+  {
+    "slide": 7,
+    "text": "Asteroids can be surprising! Bennu, visited by OSIRIS-REx, was found to be covered in boulders and even shooting out pebbles into space. It’s like a messy room that occasionally throws things out the window! Studying these surprises helps us understand how asteroids behave.",
+    "image_prompt": "The asteroid Bennu with a rough, boulder-covered surface, and small particles ejecting into space, with a spacecraft hovering nearby taking photos."
+  },
+  {
+    "slide": 8,
+    "text": "Ever seen a shooting star? That’s often a tiny asteroid burning up in Earth’s atmosphere! These meteors streak across the sky at 70 km per second—faster than a bullet. Some survive and land as meteorites. Next time you see one, make a wish—and remember, it’s a piece of space!",
+    "image_prompt": "A night sky with a bright meteor streaking across, a person silhouetted watching from a hill, and an inset of a meteorite on the ground."
+  },
+  {
+    "slide": 9,
+    "text": "Asteroids could hold clues to life’s origins! Some contain water and organic molecules—the building blocks of life. Did asteroids deliver these ingredients to Earth billions of years ago? We might be here because of these space rocks!",
+    "image_prompt": "An artistic cross-section of an asteroid showing icy patches and glowing organic molecules, with a young Earth in the background being bombarded by smaller asteroids."
+  },
+  {
+    "slide": 10,
+    "text": "The future of asteroids is exciting! Could we mine them for resources? Build bases on them? Or even use them as stepping stones to Mars? You might be part of this adventure—study science, and who knows? You could be the first astronaut to land on an asteroid!",
+    "image_prompt": "A futuristic scene with astronauts working on an asteroid, mining robots in action, and a space station orbiting nearby, with Mars visible in the distance."
+  }
+]

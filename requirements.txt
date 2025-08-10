@@ -1,0 +1,11 @@
+streamlit
+openai
+requests
+ffmpeg-python
+coqui-tts
+streamlit-authenticator==0.4.2
+pyyaml
+moviepy
+numpy
+scipy
+python-dotenv

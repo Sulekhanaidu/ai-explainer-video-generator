@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine you’re a chef cooking a big meal alone. You chop veggies, stir the soup, and bake bread—but doing one task at a time is slow. What if you could chop while stirring? That’s multithreading! It’s like having multiple hands to work on different tasks simultaneously, making everything faster. Let’s dive into how computers use this superpower!",
+    "image_prompt": "A cartoon chef with multiple arms simultaneously chopping vegetables, stirring a pot, and kneading dough in a busy kitchen."
+  },
+  {
+    "slide": 2,
+    "text": "Think of your computer’s brain (CPU) as a student doing homework. Single-threading is like writing one essay start to finish before starting math. Multithreading? It’s switching between essays and math problems to finish both faster! Computers do this to handle multiple tasks efficiently—like streaming music while you game.",
+    "image_prompt": "A student at a desk rapidly switching between writing an essay and solving math problems, with a clock speeding up in the background."
+  },
+  {
+    "slide": 3,
+    "text": "Ever watched a relay race? Each runner is like a thread! One passes the baton (data) to the next, keeping the race (program) going smoothly. Multithreading splits work into smaller parts (threads) that run almost at the same time. The result? Faster apps, smoother games, and happier users!",
+    "image_prompt": "Animated runners passing batons in a relay race, with each runner labeled 'Thread 1', 'Thread 2', etc., on a tech-themed track."
+  },
+  {
+    "slide": 4,
+    "text": "Your phone uses multithreading every day! When you text a friend while listening to music, one thread handles the music, another sends your message. Without threads, your phone would freeze—like a traffic jam! Multithreading keeps the digital world moving.",
+    "image_prompt": "A smartphone screen split into two parts: one showing a music app, the other a messaging app, with tiny workers (threads) inside each."
+  },
+  {
+    "slide": 5,
+    "text": "Threads love teamwork but need rules. Imagine two chefs grabbing the same spice—chaos! Similarly, threads sharing data can clash. Programmers use 'locks' (like a kitchen rule: 'One chef per spice'). Clever, right? This keeps threads safe and efficient.",
+    "image_prompt": "Two cartoon chefs reaching for the same spice jar, with one blocked by a transparent lock symbol, illustrating conflict prevention."
+  },
+  {
+    "slide": 6,
+    "text": "Why not just add more CPUs? Good question! It’s like hiring more chefs—but threads are cheaper and smarter. They share the kitchen (CPU) efficiently. Plus, not all tasks need a full chef (CPU). Threads are the perfect balance!",
+    "image_prompt": "A kitchen with one chef (CPU) managing multiple assistants (threads) vs. a crowded kitchen with many chefs (CPUs), showing efficiency differences."
+  },
+  {
+    "slide": 7,
+    "text": "Video games are multithreading masters! One thread renders graphics, another handles sound, a third calculates scores. Ever noticed how games lag when threads misbehave? That’s why programmers obsess over perfect threading—it’s the secret to smooth gameplay!",
+    "image_prompt": "A split-screen game scene with threads labeled 'Graphics', 'Sound', and 'Physics' working like a pit crew on a racing game."
+  },
+  {
+    "slide": 8,
+    "text": "Browsers are thread ninjas. Open 10 tabs? Each tab runs threads for loading, videos, and ads. But too many threads can slow things down—like too many apps on your phone. That’s why developers constantly optimize threading!",
+    "image_prompt": "A browser window with colorful threads weaving through tabs like yarn, some tangled (slow) and others smooth (optimized)."
+  },
+  {
+    "slide": 9,
+    "text": "Ready for a challenge? Imagine 100 threads updating a shared scoreboard. Without coordination, they’d overwrite each other! Programmers solve this with clever tricks like 'atomic operations'—think of it as a super-organized scorekeeper. Multithreading isn’t just speed; it’s precision!",
+    "image_prompt": "A pixelated game scoreboard with tiny threads (as ants) carrying numbers, one placing a digit neatly while others wait their turn."
+  },
+  {
+    "slide": 10,
+    "text": "Multithreading is everywhere—from apps to AI! Want to try it? Start with simple coding projects (like a timer that runs while you draw). The future needs threading pros—maybe you! What will you build with this superpower?",
+    "image_prompt": "A futuristic cityscape with threads as glowing highways connecting apps, robots, and devices, with a teen holding a 'You Can Code This!' flag."
+  }
+]

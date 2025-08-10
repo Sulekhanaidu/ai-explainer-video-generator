@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Ever wondered how your favorite apps and games are built? Meet Python—a powerful yet beginner-friendly programming language! Think of it like giving clear instructions to a robot. Whether it’s creating a game, analyzing data, or even controlling a spaceship, Python makes coding fun and accessible. Ready to unlock your creativity? Let’s dive in!",
+    "image_prompt": "A futuristic robot holding a Python logo, surrounded by floating code snippets and gadgets like rockets and game controllers."
+  },
+  {
+    "slide": 2,
+    "text": "Python is named after Monty Python, not the snake! It was created in 1991 by Guido van Rossum, who wanted a language that’s easy to read and write. Imagine coding as writing a recipe—Python’s clean syntax is like using simple cooking steps anyone can follow. No confusing symbols, just clear commands!",
+    "image_prompt": "A playful cartoon of Guido van Rossum holding a Python logo, with a comedy show backdrop (Monty Python reference) and a recipe book titled 'Coding Recipes'."
+  },
+  {
+    "slide": 3,
+    "text": "Python is everywhere! Instagram uses it to handle millions of photos. Scientists use it to analyze climate data. Even NASA uses it for space missions! It’s like a Swiss Army knife—versatile and reliable. What could YOU build with it? A website? A chatbot? The possibilities are endless!",
+    "image_prompt": "A collage showing Instagram’s interface, a scientist with a laptop displaying graphs, and a rocket launching, all connected by Python code strands."
+  },
+  {
+    "slide": 4,
+    "text": "Coding in Python is like building with LEGO blocks. You use small pieces (called 'syntax') to create big things. For example, print('Hello, world!') is your first block—it makes the computer greet you! Simple, right? Python’s readability means you spend less time debugging and more time creating.",
+    "image_prompt": "A LEGO-style 'Hello, world!' program built with colorful blocks, with a smiling computer screen responding to the message."
+  },
+  {
+    "slide": 5,
+    "text": "Variables in Python are like labeled jars. Store a number (age = 15), a name (user = 'Alex'), or even a list of hobbies. The computer remembers what you put inside! Unlike math class, variables can change—just update the jar’s content. Try it: score = 10, then score = score + 1. What’s the new value?",
+    "image_prompt": "Transparent jars labeled 'age,' 'user,' and 'hobbies' filled with numbers, letters, and tiny icons like a soccer ball and paintbrush."
+  },
+  {
+    "slide": 6,
+    "text": "Loops let you repeat tasks without boredom. Imagine telling your dog, 'Fetch the ball 10 times.' In Python, you’d write: for i in range(10): print('Fetch!'). Loops automate repetitive tasks—like counting stars or sending 100 party invites. Saves time, right?",
+    "image_prompt": "A cartoon dog fetching a ball, with a Python loop code snippet floating above like a thought bubble, showing the 'for' loop in action."
+  },
+  {
+    "slide": 7,
+    "text": "Conditionals help Python make decisions. Think of a traffic light: if the light is green, go; else, stop. In code: if light == 'green': print('Go!'). Add elif and else for more choices, like a quiz game. Python’s logic is just like everyday reasoning!",
+    "image_prompt": "A traffic light with Python code overlayed, showing the 'if-else' logic, with cars responding to the light changes."
+  },
+  {
+    "slide": 8,
+    "text": "Functions are your code’s superpowers. Define once, reuse anytime! Need to calculate area? Write def area(length, width): return length * width. Now just say area(5, 4) to get 20. It’s like teaching Python a new trick—say the magic word (function name), and it works!",
+    "image_prompt": "A wizard casting a spell labeled 'def area()', with numbers transforming into a glowing '20' inside a geometric shape."
+  },
+  {
+    "slide": 9,
+    "text": "Libraries turn Python into a superhero toolkit. Want to draw? Use Turtle. Analyze data? Pandas. Build AI? TensorFlow! These are free, ready-to-use code bundles. It’s like adding apps to your phone—suddenly, your Python can do way more! What will you explore first?",
+    "image_prompt": "A smartphone with Python app icons labeled 'Turtle,' 'Pandas,' and 'TensorFlow,' each opening into a unique scene (art, graphs, robots)."
+  },
+  {
+    "slide": 10,
+    "text": "Your turn! Start small: automate homework, make a quiz, or design a pixel art generator. Python’s community is huge—ask questions, share projects, and keep learning. Remember, every coder started where you are now. So open a notebook, type your first line, and let’s create something amazing!",
+    "image_prompt": "A diverse group of students collaborating on laptops, with colorful code projects (a game, a graph, a robot) glowing on their screens."
+  }
+]

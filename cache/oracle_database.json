@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine your school library—thousands of books neatly organized so you can find anything in seconds. An Oracle database is like that, but for digital information! It stores, manages, and retrieves data super efficiently. From your favorite game’s player stats to bank transactions, Oracle keeps the world running smoothly. Ready to unlock how it works? Let’s dive in!",
+    "image_prompt": "A futuristic library with glowing digital books floating in the air, a robot librarian scanning shelves, and students browsing data like books."
+  },
+  {
+    "slide": 2,
+    "text": "Think of Oracle as a super-organized digital filing cabinet. Instead of paper, it holds data like names, prices, or even your gym scores. Companies use it because it’s reliable—like a vault that never loses anything. Ever wondered how airlines track millions of flights? Oracle databases help do that! What data would YOU store in a billion-row spreadsheet?",
+    "image_prompt": "A giant, high-tech filing cabinet with colorful drawers labeled 'Students,' 'Games,' 'Finance,' etc., with a holographic lock symbolizing security."
+  },
+  {
+    "slide": 3,
+    "text": "Databases speak their own language—SQL (Structured Query Language). It’s like texting a robot to fetch data! For example, 'SELECT * FROM pizza_toppings WHERE spicy = TRUE' grabs all hot toppings. Even Instagram filters use SQL behind the scenes! Could you write a query to find your top 10 playlist songs?",
+    "image_prompt": "A smartphone screen showing a chat with a robot: User types SQL queries, the robot replies with pizza emojis, music notes, and data charts."
+  },
+  {
+    "slide": 4,
+    "text": "Oracle isn’t just storage—it’s a bouncer, too! It checks who can see or edit data. Picture your school’s Google Drive: teachers edit grades, students view assignments. Oracle does this for hospitals, banks… even TikTok! Why might a hospital restrict access to patient records? (Hint: Privacy matters!)",
+    "image_prompt": "A futuristic security checkpoint with face-scanning gates separating 'Admin,' 'Teachers,' and 'Students,' each leading to different data zones."
+  },
+  {
+    "slide": 5,
+    "text": "Data can be messy—like a group project where everyone edits the same doc. Oracle avoids chaos with 'transactions.' If you buy concert tickets, it reserves them AND takes your payment instantly—no double-booking! Ever had two people claim the last slice of pizza? Databases prevent that drama!",
+    "image_prompt": "Animated pizza slices with 'SOLD' tags popping up as a cashier scans them, while a clock counts 'Transaction: 0.001 seconds.'"
+  },
+  {
+    "slide": 6,
+    "text": "Backups are Oracle’s superhero power. If your phone crashes, you restore from a backup—databases do the same! Hospitals, governments, and even Minecraft servers rely on this. Fun fact: Oracle can recover data from YEARS ago. How would you feel if your game progress vanished? (Exactly why backups rock!)",
+    "image_prompt": "A robot wearing a cape saving files into a glowing 'Backup' treasure chest, while a storm (labeled 'System Crash') rages outside."
+  },
+  {
+    "slide": 7,
+    "text": "Big data = big speed challenges. Oracle’s secret? Indexes—like a textbook’s index page. Need stats on dinosaurs? Jump straight to the 'T-Rex' entry instead of reading every chapter. Netflix uses this to suggest shows you’ll love! What’s your quick-search hack for homework?",
+    "image_prompt": "A giant textbook with a rainbow-colored index sidebar; a hand points to 'Dinosaurs → T-Rex' as a streaming app suggests 'Jurassic Park.'"
+  },
+  {
+    "slide": 8,
+    "text": "Cloud databases are the future! Oracle lives online, so you can access data anywhere—like Google Docs vs. a paper notebook. Stores update prices globally in real time. Imagine playing an online game where everyone’s scores sync instantly. Cool, right? How might cloud databases change self-driving cars?",
+    "image_prompt": "A floating 'cloud' city with data streams connecting phones, laptops, and a self-driving car, all syncing with an Oracle logo in the sky."
+  },
+  {
+    "slide": 9,
+    "text": "Careers in databases? Absolutely! Database admins are digital architects. They design systems for games, science, even space missions! With AI growing, someone needs to organize all that data. Could YOU see yourself optimizing databases for a VR game or a climate study?",
+    "image_prompt": "A diverse team in a futuristic office: one person designs a database schema, another checks Mars rover data, a third adjusts VR headset analytics."
+  },
+  {
+    "slide": 10,
+    "text": "You’ve just unlocked the basics of Oracle databases! They’re everywhere—hidden in apps, games, and services you use daily. Next time you stream a song or check grades online, remember the tech behind it. Want to explore more? Try a free SQL tutorial or brainstorm your own database idea. What will YOU create?",
+    "image_prompt": "A treasure chest bursting with icons: a music note, a game controller, a bank card, and a 'SQL for Beginners' book, all glowing with potential."
+  }
+]

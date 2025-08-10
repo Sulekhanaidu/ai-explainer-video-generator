@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine you’re playing a video game. The buttons, menus, and even the character’s movements—that’s the interface! It’s how you interact with the game. In real life, interfaces are everywhere: your phone screen, a microwave’s buttons, even a doorknob! Today, we’ll explore what interfaces are and why they’re so important in our daily lives.",
+    "image_prompt": "A teenager playing a video game with a controller, surrounded by glowing buttons and menus floating in the air."
+  },
+  {
+    "slide": 2,
+    "text": "An interface is like a bridge between you and technology. Think of it as a conversation: you give a command, and the device responds. For example, when you tap a weather app, it shows you the forecast. The better the interface, the smoother the conversation. Ever struggled with a confusing remote? That’s a bad interface!",
+    "image_prompt": "A bridge connecting a person to a smartphone, with speech bubbles showing commands like 'play music' and 'send message.'"
+  },
+  {
+    "slide": 3,
+    "text": "There are two main types of interfaces: physical and digital. Physical interfaces include things like keyboards, touchscreens, or even a bicycle’s handlebars. Digital interfaces are the apps and websites you use every day, like Instagram or Google. Both help you control and communicate with technology—just in different ways!",
+    "image_prompt": "A split-screen showing a keyboard and a smartphone with social media apps, highlighting the differences between physical and digital interfaces."
+  },
+  {
+    "slide": 4,
+    "text": "Let’s talk about user-friendly interfaces. Have you ever used an app that just 'clicks' with you? That’s good design! A great interface is intuitive—like a playground slide. You don’t need instructions; you just know how to use it. Bad interfaces? They’re like a slide with hidden bumps—frustrating and confusing!",
+    "image_prompt": "A happy kid sliding down a playground slide labeled 'Easy to Use,' contrasted with a tangled jungle gym labeled 'Confusing.'"
+  },
+  {
+    "slide": 5,
+    "text": "Ever heard of UI and UX? UI (User Interface) is what you see—buttons, colors, and layouts. UX (User Experience) is how you feel while using it. Think of a pizza app: UI is the menu design, UX is how easy it is to order. Both matter to make technology enjoyable!",
+    "image_prompt": "A pizza delivery app screen with colorful buttons (UI) and a smiling customer holding a pizza (UX)."
+  },
+  {
+    "slide": 6,
+    "text": "Interfaces evolve! Old phones had tiny buttons; now we have touchscreens. Voice assistants like Siri or Alexa are the next step—just speak, and they listen. What’s next? Maybe brain-controlled interfaces! The goal is always the same: make interaction faster, simpler, and more natural.",
+    "image_prompt": "A timeline showing a rotary phone, a smartphone, a voice assistant, and a futuristic brain-wave headset."
+  },
+  {
+    "slide": 7,
+    "text": "Interfaces aren’t just for tech. A book’s table of contents is an interface—it helps you navigate. A car’s dashboard? That’s an interface too! Even a teacher’s whiteboard is a learning interface. Interfaces are all about helping us get things done, whether it’s reading, driving, or studying.",
+    "image_prompt": "A classroom with a teacher pointing at a whiteboard, a student reading a book, and a car dashboard—all highlighted as interfaces."
+  },
+  {
+    "slide": 8,
+    "text": "Have you ever designed anything? Even arranging your room is a bit like interface design! You decide where things go for easy access. Tech designers do the same—they organize apps so you can find things quickly. Next time you use an app, think: why are the buttons placed where they are?",
+    "image_prompt": "A teenager rearranging their desk and a designer organizing app icons on a screen, with both scenes connected by a 'design' arrow."
+  },
+  {
+    "slide": 9,
+    "text": "Bad interfaces can be funny—or annoying! Ever pushed a door that says 'pull'? Or clicked a tiny, hidden button? These are fails in interface design. Good designers test their interfaces with real people to avoid these mistakes. You could be a tester someday!",
+    "image_prompt": "A comic-style scene of a person pushing a door labeled 'pull,' with a big 'Oops!' speech bubble."
+  },
+  {
+    "slide": 10,
+    "text": "Interfaces shape our world. From your favorite apps to futuristic tech, they’re the unsung heroes of convenience. Next time you use your phone or even a vending machine, take a second to appreciate the design. Who knows—maybe you’ll design the next big interface! What would you create?",
+    "image_prompt": "A group of diverse students brainstorming futuristic interface ideas, like holograms or gesture controls, on a whiteboard."
+  }
+]

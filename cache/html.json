@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine the internet as a giant library. Every website is a book, and HTML is the skeleton that holds each book together! HTML stands for HyperText Markup Language—it’s the code that structures web pages. Without it, the internet would just be a messy pile of text and images. Ready to learn how it works? Let’s dive in!",
+    "image_prompt": "A futuristic library with floating books, where one book opens to reveal glowing HTML code inside."
+  },
+  {
+    "slide": 2,
+    "text": "Think of HTML like building with LEGO bricks. Each brick has a purpose: some are headers, some are paragraphs, and others are images. HTML uses 'tags'—like <h1> for headings or <p> for paragraphs—to tell browsers how to display content. For example, <h1>Welcome!</h1> makes a big heading. Simple, right? Tags are your building blocks!",
+    "image_prompt": "A child assembling a colorful LEGO structure, with some bricks labeled as HTML tags like <h1> and <p>."
+  },
+  {
+    "slide": 3,
+    "text": "Ever made a sandwich? HTML works like layers in a sandwich. The <html> tag is the bread, wrapping everything. Inside, the <head> holds invisible stuff like the title (your sandwich’s name). The <body> is the tasty filling—what you actually see on the page. Without these layers, your website would be a mess—like a sandwich with no bread!",
+    "image_prompt": "A delicious sandwich cut in half, with layers labeled as HTML tags: bread as <html>, lettuce as <head>, and fillings as <body>."
+  },
+  {
+    "slide": 4,
+    "text": "HTML isn’t just for text—it can show images, videos, and more! The <img> tag lets you add pictures, like posting a photo on social media. For example, <img src='cat.jpg'> displays a cat picture. But remember: HTML is like a frame—it holds the picture, but the image file is separate. Cool, huh?",
+    "image_prompt": "A smartphone displaying a social media post with a cat picture, alongside floating HTML tags like <img src='cat.jpg'>."
+  },
+  {
+    "slide": 5,
+    "text": "Links are the magic portals of the web. With the <a> tag, you can jump to another page, like teleporting! For example, <a href='https://example.com'>Click here</a> creates a clickable link. Without links, the web would be a dead end—like a city with no roads. Where would you link to first?",
+    "image_prompt": "A futuristic city with glowing portals (links) connecting buildings, each labeled with <a> tags."
+  },
+  {
+    "slide": 6,
+    "text": "HTML also makes lists—like your to-do or favorite games list. <ul> creates bullet points, while <ol> numbers them. For example: <ul><li>Pizza</li><li>Games</li></ul>. Lists keep things organized, just like your school notebook! What would you put on your HTML list?",
+    "image_prompt": "A notebook with a handwritten to-do list, alongside a screen showing the same list in HTML tags like <ul> and <li>."
+  },
+  {
+    "slide": 7,
+    "text": "Tables in HTML are like spreadsheets or game grids. The <table> tag creates rows (<tr>) and cells (<td>). For example, a timetable or scoreboard. Without tables, data would be chaotic—like a puzzle with missing pieces! Could you make a table of your weekly schedule?",
+    "image_prompt": "A game grid or classroom timetable with overlapping HTML tags like <table>, <tr>, and <td> floating around."
+  },
+  {
+    "slide": 8,
+    "text": "HTML even lets you embed videos and music! The <iframe> tag can show YouTube videos, like a window into another site. For example, <iframe src='video-url'></iframe>. It’s like hanging a painting on your wall—but the painting is a live video! What would you embed on your site?",
+    "image_prompt": "A laptop playing a YouTube video, with the screen surrounded by HTML tags like <iframe> glowing around it."
+  },
+  {
+    "slide": 9,
+    "text": "Want to make your website interactive? HTML forms (<form>) let users type, click, or submit—like a login page or quiz. Tags like <input> create buttons or text boxes. For example, <input type='text'> makes a typing field. Forms turn viewers into participants! What kind of form would you design?",
+    "image_prompt": "A futuristic tablet displaying a login form, with HTML tags like <form> and <input> floating above it."
+  },
+  {
+    "slide": 10,
+    "text": "Now you know HTML is the backbone of the web! It’s not scary—just a set of tags to structure content. Want to try? Open a text editor, save a file as .html, and start tagging! The browser will do the rest. Who knows? Your first website might go live soon. What will you create?",
+    "image_prompt": "A student typing code on a laptop, with a browser window showing a simple website and colorful HTML tags flying out."
+  }
+]

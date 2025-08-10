@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine your school locker—a place where you store books, notes, and snacks. A database is like a super-organized digital locker that stores and manages information. Whether it's your favorite game scores, social media posts, or even library books, databases keep everything in order so you can find what you need quickly. Ready to unlock the secrets of databases? Let’s go!",
+    "image_prompt": "A colorful digital locker with labeled compartments, filled with books, game controllers, and social media icons."
+  },
+  {
+    "slide": 2,
+    "text": "Think of a database as a giant spreadsheet, but way more powerful. Instead of just rows and columns, it can handle millions of data points—like tracking every student’s grades, attendance, or even cafeteria preferences. Databases help schools, hospitals, and businesses run smoothly. Without them, finding information would be like searching for a needle in a haystack!",
+    "image_prompt": "A futuristic spreadsheet floating in space, with glowing cells showing grades, attendance, and food icons."
+  },
+  {
+    "slide": 3,
+    "text": "Ever wondered how Netflix knows what shows you’ll love? Or how Spotify suggests the perfect playlist? They use databases to remember your choices and predict what you’ll like next. It’s like having a super-smart friend who never forgets your favorites. Databases make technology personal—and that’s pretty cool!",
+    "image_prompt": "A friendly robot holding a clipboard, standing in front of a screen showing personalized movie and music recommendations."
+  },
+  {
+    "slide": 4,
+    "text": "Databases aren’t just for tech giants—you use them every day! Posting on social media? That’s stored in a database. Ordering pizza online? Database. Even your school’s online library uses one. They’re the invisible heroes behind the scenes, making sure your data is safe, organized, and ready when you need it.",
+    "image_prompt": "A split-screen showing a phone with social media apps on one side and a pizza delivery website on the other, connected by a glowing database symbol."
+  },
+  {
+    "slide": 5,
+    "text": "Let’s break it down: a database has ‘tables’ (like folders) and ‘records’ (like files inside those folders). For example, a school database might have a ‘Students’ table with records for each of you—your name, grade, and email. It’s like a digital filing cabinet, but way faster and smarter!",
+    "image_prompt": "A 3D filing cabinet with drawers labeled ‘Students,’ ‘Teachers,’ and ‘Classes,’ with colorful files popping out."
+  },
+  {
+    "slide": 6,
+    "text": "How does a database find your info so fast? It uses ‘queries’—fancy search commands. Imagine shouting, ‘Find all 9th graders who love soccer!’ The database scans thousands of records in seconds. It’s like having a super-speedy librarian who knows exactly where every book is!",
+    "image_prompt": "A futuristic librarian robot scanning a giant bookshelf, with a thought bubble showing a soccer ball and ‘9th Grade’ label."
+  },
+  {
+    "slide": 7,
+    "text": "Not all databases are the same. Some are like notebooks (simple and small), while others are like libraries (huge and complex). For example, a birthday app might use a tiny database, but a hospital needs a massive one to store patient records. The bigger the job, the stronger the database!",
+    "image_prompt": "A scale comparing a small notebook labeled ‘Birthday App’ to a towering library labeled ‘Hospital Records.’"
+  },
+  {
+    "slide": 8,
+    "text": "Ever heard of hacking? Databases need top-notch security to protect your info. Passwords, encryption, and firewalls act like digital locks and guards. Just like you wouldn’t leave your locker open, databases use these tools to keep data safe from cyber thieves!",
+    "image_prompt": "A shield-wielding knight guarding a vault labeled ‘Database,’ with hacker figures trying (and failing) to break in."
+  },
+  {
+    "slide": 9,
+    "text": "Databases are evolving! Now, they can even handle photos, videos, and GPS locations. Imagine a database tracking endangered animals using photos from drones—or helping scientists predict weather patterns. The future of databases is limitless, and you could be part of shaping it!",
+    "image_prompt": "A holographic globe with animal icons, weather symbols, and drones, all connected by glowing data streams."
+  },
+  {
+    "slide": 10,
+    "text": "Now it’s your turn! Want to build your own database? Start with tools like Google Sheets or simple apps. Experiment, ask questions, and explore. Who knows—you might create the next big thing! Remember, every tech revolution starts with curiosity. So, what will you store in your database?",
+    "image_prompt": "A group of diverse students huddled around a laptop, with thought bubbles showing ideas like ‘Game Stats,’ ‘Science Project,’ and ‘Music Playlists.’"
+  }
+]

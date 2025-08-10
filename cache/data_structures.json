@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine your school locker—how do you organize your books, bags, and lunchbox? Just like you arrange things for easy access, computers use 'data structures' to store and manage information efficiently. Whether it’s a playlist, game scores, or social media feeds, data structures make it all work smoothly. Let’s dive into the hidden systems that power our digital world!",
+    "image_prompt": "A colorful school locker with neatly arranged books, a lunchbox, and a backpack, with digital icons like music notes and game controllers floating around it."
+  },
+  {
+    "slide": 2,
+    "text": "Think of a 'list' as a simple to-do note. You write tasks one after another, just like a computer stores data in an 'array'—a basic data structure. Need to find your science homework in the list? Easy! But what if you add or remove tasks often? Arrays can get slow. That’s where smarter structures come in!",
+    "image_prompt": "A handwritten to-do list pinned on a corkboard, with items like 'Math HW' and 'Science Project,' alongside a digital screen showing a glowing array of boxes with labels."
+  },
+  {
+    "slide": 3,
+    "text": "Ever played a game of 'Jenga'? A 'stack' works the same way—you add or remove blocks only from the top. Computers use stacks for tasks like undo/redo in apps or navigating web pages. Last thing you add is the first thing you remove. Simple, right? But try pulling a block from the middle… oops! Stacks don’t allow that.",
+    "image_prompt": "A Jenga tower with some blocks being added or removed, alongside a digital stack of colorful blocks with an 'undo' arrow hovering above."
+  },
+  {
+    "slide": 4,
+    "text": "Waiting in line for lunch? That’s a 'queue'! The first person in line gets served first. Computers use queues for tasks like printing documents or streaming videos. Unlike stacks, queues are fair—no cutting the line! Ever buffered a video? That’s the queue working hard to load data in order.",
+    "image_prompt": "A lunch line with cartoon students waiting their turn, mirrored by a digital queue of documents entering a printer or video frames loading on a screen."
+  },
+  {
+    "slide": 5,
+    "text": "A family tree is a perfect example of a 'tree' in data structures. It starts with grandparents at the top and branches out to parents, then you! Computers use trees to organize files, run AI algorithms, or even decide moves in games. The 'root' is the origin, and 'leaves' are endpoints. Neat, huh?",
+    "image_prompt": "A stylized family tree with cartoon portraits, transitioning into a digital tree with folders and files as branches, glowing with connections."
+  },
+  {
+    "slide": 6,
+    "text": "Social media is a giant web of connections—friends, likes, and shares. That’s a 'graph'! Unlike trees, graphs can loop back (like mutual friends). Google Maps uses graphs to find the shortest route, and Netflix recommends shows based on your 'graph' of preferences. It’s all about relationships!",
+    "image_prompt": "A network of cartoon people connected by glowing lines, overlaid on a map with routes and streaming icons like film reels and thumbs-up buttons."
+  },
+  {
+    "slide": 7,
+    "text": "Dictionaries organize words alphabetically for quick lookup. A 'hash table' does the same for data, using a 'key' (like a word) to find its 'value' (like the definition). Your phone’s contacts? A hash table! Need Emma’s number? Just type her name—no scrolling required. Speed and efficiency at its best!",
+    "image_prompt": "An open dictionary with glowing tabs, alongside a digital phone contacts list where typing 'E' instantly highlights 'Emma' with a sparkle effect."
+  },
+  {
+    "slide": 8,
+    "text": "Some data structures are like Swiss Army knives—flexible but complex. A 'linked list' chains data like a scavenger hunt: each clue points to the next. Great for dynamic data, but finding clue #10 means starting from #1 first. Pros and cons? Absolutely! That’s why programmers choose wisely.",
+    "image_prompt": "A scavenger hunt map with dotted lines connecting clues, paralleled by a digital chain of glowing nodes with arrows linking them."
+  },
+  {
+    "slide": 9,
+    "text": "Why does this matter? Faster apps, smarter games, and smoother searches! Poor data structures freeze your game or slow down apps. Ever seen a 'loading' spinner? Better structures reduce that. From your playlist to space missions, efficient data handling is everywhere. You’re already using them—now you know how they work!",
+    "image_prompt": "A split screen: one side shows a laggy game with a loading spinner, the other side a fast-running app with rockets and music notes zipping around."
+  },
+  {
+    "slide": 10,
+    "text": "Ready to experiment? Try organizing your desk like an array, stack, or queue! Or sketch a family tree as a graph. Notice how real-life systems mirror digital ones. Curious about coding? Start with simple structures and build up. The digital world runs on these ideas—and now you’re in the know!",
+    "image_prompt": "A desk with notebooks arranged in different patterns (linear, stacked, queued), a doodled graph on paper, and a laptop with code snippets glowing softly."
+  }
+]

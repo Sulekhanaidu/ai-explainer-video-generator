@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine you have a magic remote control that can change the function of a button based on what you're watching. That’s polymorphism! In programming, it lets one thing—like a function or object—behave differently depending on the context. Think of it like a Swiss Army knife: same tool, different uses! Ready to explore how this superpower works in code? Let’s go!",
+    "image_prompt": "A futuristic remote control with glowing buttons, each transforming into different tools (like a pencil, music note, or game controller) when pressed, against a cosmic background."
+  },
+  {
+    "slide": 2,
+    "text": "Meet Alex, a student who’s also a guitarist and a gamer. To friends, Alex is funny; to teachers, respectful; to teammates, strategic. Same person, different roles—just like polymorphism in code! A single function can adapt based on the data it’s given. For example, a ‘print’ function could print text, numbers, or even emojis differently. Cool, right?",
+    "image_prompt": "A cartoon teenager with multiple transparent overlays: one holding a guitar, another with a game controller, and a third raising a hand in class. Each overlay highlights a different role."
+  },
+  {
+    "slide": 3,
+    "text": "Ever used a ride-sharing app? Whether you pick ‘car,’ ‘bike,’ or ‘scooter,’ the app books your ride seamlessly. Polymorphism lets programmers write one ‘bookRide’ function that works for all options! It’s like having a universal ‘on’ switch for lights, fans, or TVs—same action, different results behind the scenes.",
+    "image_prompt": "A smartphone screen showing a ride-sharing app with three animated options (car, bike, scooter) glowing when selected, with a finger tapping the screen."
+  },
+  {
+    "slide": 4,
+    "text": "Think of a music player. Whether you play a pop song, podcast, or audiobook, you hit the same ‘play’ button. Polymorphism is the wizard behind the curtain making sure the right sound comes out! In code, a ‘play’ method might adjust volume, speed, or equalizer settings based on the file type—all invisibly.",
+    "image_prompt": "A neon music player interface with a giant ‘play’ button. When pressed, different media types (waveforms, podcast mic, book icon) burst out like fireworks."
+  },
+  {
+    "slide": 5,
+    "text": "In a video game, pressing ‘attack’ might make a warrior swing a sword, a wizard cast a spell, or an archer fire an arrow. Polymorphism lets developers write clean code where each character’s ‘attack’ method does its own thing. Less repetition, more action! How would YOU design a polymorphic superpower?",
+    "image_prompt": "A split-screen game scene: left side shows a warrior with a sword, middle a wizard with a spellbook, right an archer with a bow—all mid-attack with a shared ‘ATTACK’ button overlay."
+  },
+  {
+    "slide": 6,
+    "text": "Ever wonder how apps like Instagram apply filters? A ‘applyFilter’ function works on photos, videos, or even live streams! Polymorphism handles the ‘how’ so developers can focus on creativity. It’s like a chef’s knife: whether dicing onions or slicing bread, the tool adapts to the ingredient.",
+    "image_prompt": "A smartphone with a photo being swiped through vibrant filters (sepia, neon, sketch), while a chef’s knife morphs into different kitchen tools beside it."
+  },
+  {
+    "slide": 7,
+    "text": "Let’s get technical (but just a bit!). Polymorphism often uses ‘inheritance’—where objects share traits but can override them. Imagine a ‘Bird’ class where all birds can ‘fly,’ but penguins override it to ‘swim.’ The code knows which version to use, just like you know a penguin won’t soar like an eagle!",
+    "image_prompt": "A humorous split image: top half shows an eagle flying with ‘fly()’ code; bottom half shows a penguin swimming with ‘swim()’ code overriding the same function."
+  },
+  {
+    "slide": 8,
+    "text": "Why does polymorphism matter? It makes code flexible and reusable. Want to add a new ride type or character? Just extend the system—no rewriting everything! It’s like adding DLC to a game without rebuilding it from scratch. Less work, more possibilities. What would YOU build with this power?",
+    "image_prompt": "A programmer’s desk with a ‘Polymorphism’ manual open, while a game controller and ride-sharing app icons float above it, connected by glowing ‘+’ symbols."
+  },
+  {
+    "slide": 9,
+    "text": "Time to experiment! Picture a ‘draw’ function that creates circles, squares, or triangles based on user input. With polymorphism, you could add stars, hearts, or even emojis later without breaking existing code. Try this: how would you design a polymorphic ‘greet’ function that says ‘hello’ in text, voice, or sign language?",
+    "image_prompt": "A chalkboard with ‘draw()’ at the top, below it a circle, square, and triangle, with empty spaces labeled ‘Your Turn!’ and crayons lying nearby."
+  },
+  {
+    "slide": 10,
+    "text": "You’ve unlocked the polymorphism superpower! Remember: it’s about writing smarter code that adapts. From games to apps, this concept is everywhere. Now, go brainstorm where YOU could use it—maybe in your next project or even a sci-fi story! Keep coding, keep creating, and let your ideas evolve just like polymorphic functions do.",
+    "image_prompt": "A young programmer with a superhero cape, standing atop a pile of gadgets (phones, game consoles, drones), with polymorphic arrows swirling around them against a sunrise backdrop."
+  }
+]

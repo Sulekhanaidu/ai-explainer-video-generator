@@ -1,0 +1,42 @@
+[
+  {
+    "slide": 1,
+    "text": "Welcome to this explainer video on centralized configuration. As software systems grow in complexity, managing configurations becomes increasingly important. In this video, we'll explore what centralized config means and how it can simplify your configuration management process."
+  },
+  {
+    "slide": 2,
+    "text": "Traditionally, configuration files are scattered throughout a system, making it difficult to manage and maintain them. This leads to errors, inconsistencies, and increased maintenance costs. Centralized config solves this problem by consolidating all configuration settings into a single source of truth."
+  },
+  {
+    "slide": 3,
+    "text": "A centralized config system allows you to store and manage all your configurations in one place. This means you can easily access, update, and backup your configurations as needed. No more searching through multiple files or trying to remember where a specific setting is stored."
+  },
+  {
+    "slide": 4,
+    "text": "Centralized config also enables you to apply the same configuration settings across multiple environments, such as development, testing, and production. This ensures consistency and reduces errors caused by manual configuration changes."
+  },
+  {
+    "slide": 5,
+    "text": "Imagine being able to manage your configurations like a database – easily query, update, and backup your data. That's what centralized config offers. No more worrying about lost or outdated configurations."
+  },
+  {
+    "slide": 6,
+    "text": "But that's not all. Centralized config also provides version control and auditing capabilities. This means you can track changes to your configurations over time, ensuring accountability and reducing errors caused by unintended configuration drift."
+  },
+  {
+    "slide": 7,
+    "text": "In a centralized config system, you can define different environments or profiles for your application. This allows you to easily switch between development, testing, and production settings without having to manually update individual configuration files."
+  },
+  {
+    "slide": 8,
+    "text": "Furthermore, centralized config enables you to create templates and blueprints for your configurations. This helps ensure consistency across your system and reduces the risk of human error."
+  },
+  {
+    "slide": 9,
+    "text": "By centralizing your configuration management, you can also simplify compliance and auditing processes. With a single source of truth for your configurations, you can easily prove compliance with regulatory requirements or industry standards."
+  },
+  {
+    "slide": 10,
+    "text": "In conclusion, centralized config is a powerful tool for managing complex systems. By consolidating configuration settings into a single source of truth, you can simplify management, reduce errors, and improve overall system reliability. Join us next time to learn more about how to implement centralized config in your own projects."
+  }
+]

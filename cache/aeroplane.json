@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Have you ever looked up at the sky and wondered how a massive aeroplane stays in the air? It’s not magic—it’s science! Aeroplanes are incredible machines that use the principles of physics to fly. Think of them like giant metal birds, but instead of flapping wings, they rely on engines and clever design to soar through the clouds. Let’s explore how they work!",
+    "image_prompt": "A modern passenger aeroplane flying high in a bright blue sky with fluffy white clouds, viewed from below to emphasize its size and wings."
+  },
+  {
+    "slide": 2,
+    "text": "The secret to flight lies in the wings. Airplane wings are shaped to create lift—a force that pushes the plane upward. Imagine sticking your hand out of a moving car window and tilting it slightly: the air pushes your hand up. Wings work the same way, but on a much larger scale. This is called aerodynamics, and it’s what keeps tons of metal airborne!",
+    "image_prompt": "A close-up cross-section of an aeroplane wing showing air flowing over and under it, with arrows illustrating lift force."
+  },
+  {
+    "slide": 3,
+    "text": "Ever heard of the Wright brothers? In 1903, they built and flew the first successful aeroplane, covering just 120 feet—shorter than a soccer field! Today, planes like the Boeing 787 can fly over 7,000 miles nonstop. That’s like traveling from New York to Tokyo in one go! How did we go from 120 feet to crossing oceans? Innovation and engineering!",
+    "image_prompt": "A split-screen image: left side shows the Wright brothers' first flight with a wooden plane; right side shows a sleek modern jetliner."
+  },
+  {
+    "slide": 4,
+    "text": "Jet engines are the powerhouse of modern aeroplanes. They suck in air, mix it with fuel, and blast it out the back at high speed—pushing the plane forward. It’s like blowing up a balloon and letting it go: the air rushing out propels it forward. But instead of a balloon, jets do this continuously, creating enough thrust to lift a 200-ton plane!",
+    "image_prompt": "A cutaway view of a jet engine with labeled parts, showing air intake, combustion, and exhaust with fiery propulsion."
+  },
+  {
+    "slide": 5,
+    "text": "Pilots use controls like the yoke (steering wheel), pedals, and flaps to maneuver the plane. Tilting the wings (called rolling) helps turn, while raising the nose (pitching) makes the plane climb. It’s like riding a bike but in 3D! Next time you’re on a flight, watch the wings—you might see flaps moving during takeoff or landing.",
+    "image_prompt": "A pilot in a cockpit holding the yoke, with hands on throttle controls, and an overlay of plane movements (roll, pitch, yaw)."
+  },
+  {
+    "slide": 6,
+    "text": "Why do planes leave white trails in the sky? Those are contrails, short for condensation trails. Hot exhaust from the engines mixes with cold air high in the atmosphere, creating tiny ice crystals—just like your breath on a frosty day! Contrails can tell us about weather conditions and even affect climate. Nature’s way of leaving a flight path!",
+    "image_prompt": "A high-altitude view of a jet leaving long, wispy white contrails against a deep blue sky."
+  },
+  {
+    "slide": 7,
+    "text": "Air traffic control is like a giant, invisible game of Tetris in the sky. Controllers use radar and radios to guide planes, ensuring they keep safe distances. Imagine coordinating thousands of flights daily without collisions! Next time you’re delayed, remember: it’s all about safety. Even a tiny mistake could be disastrous at 500 mph!",
+    "image_prompt": "An air traffic control room with radar screens displaying multiple blips (planes), and controllers wearing headsets."
+  },
+  {
+    "slide": 8,
+    "text": "From tiny two-seaters to the double-decker Airbus A380, aeroplanes come in all shapes. Some carry cargo (like your online orders!), some fight fires, and others even refuel mid-air. The fastest? The SR-71 Blackbird, which could fly from London to New York in under 2 hours! What would your dream plane look like?",
+    "image_prompt": "A collage of different aircraft: small propeller plane, jumbo jet, fighter jet, and cargo plane, with a speed blur on the SR-71."
+  },
+  {
+    "slide": 9,
+    "text": "Flying isn’t just for humans—nature did it first! Birds, bats, and insects inspired early aviation designs. The albatross can glide for hours without flapping, and dragonflies maneuver better than any drone. Scientists still study them to improve planes. Who knows? The next breakthrough might come from watching a seagull!",
+    "image_prompt": "A side-by-side comparison: a bird mid-flight next to an early biplane, highlighting similar wing shapes."
+  },
+  {
+    "slide": 10,
+    "text": "What’s next for aviation? Electric planes, like the ones you build in science class, are becoming real. Some companies are working on supersonic flights (faster than sound!) or even space tourism. Maybe YOU’LL design the future of flight! So next time you see a plane, remember: it’s not just transport—it’s centuries of curiosity, creativity, and engineering brilliance.",
+    "image_prompt": "A futuristic concept plane with sleek, eco-friendly design flying over a city at sunset, with a faint aurora in the sky."
+  }
+]

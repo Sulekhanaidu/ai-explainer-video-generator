@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Have you ever wondered why you have your mom’s smile or your dad’s curly hair? That’s inheritance at work! Just like passing down a family recipe, parents pass traits to their kids through genes. Think of genes as tiny instruction manuals inside every cell. Ready to uncover how inheritance shapes who you are? Let’s dive in!",
+    "image_prompt": "A cheerful family with parents and kids, highlighting similar features like hair color and smiles, with cartoon-style DNA strands floating in the background."
+  },
+  {
+    "slide": 2,
+    "text": "Meet Gregor Mendel, the 'father of genetics.' In the 1800s, he studied pea plants and discovered how traits like color and height are inherited. His experiments showed that traits follow predictable patterns—just like flipping a coin! Mendel’s work laid the foundation for genetics. Who knew peas could be so revolutionary?",
+    "image_prompt": "A vintage-style illustration of Gregor Mendel in a garden, holding pea plants with different colors and heights, surrounded by floating Punnett squares."
+  },
+  {
+    "slide": 3,
+    "text": "Genes come in pairs, like shoes! You get one from each parent. Some genes are 'dominant'—they always show up, like brown eyes. Others are 'recessive'—they stay hidden unless paired with another recessive gene, like blue eyes. It’s like a game of genetic hide-and-seek. What traits are hiding in your DNA?",
+    "image_prompt": "A playful side-by-side comparison of dominant (brown eyes) and recessive (blue eyes) traits, with cartoon genes as paired shoes, one bold and one faint."
+  },
+  {
+    "slide": 4,
+    "text": "Ever seen a calico cat? Their patchy fur is a cool example of inheritance in action. The gene for fur color is on the X chromosome, so female cats (with two Xs) can show two colors, while males (with one X) usually show one. Nature’s way of painting with genes! What other colorful animal traits can you think of?",
+    "image_prompt": "A vibrant calico cat with patches of orange, black, and white fur, with X chromosomes highlighted in the background like puzzle pieces."
+  },
+  {
+    "slide": 5,
+    "text": "Not all traits are as simple as eye color. Some, like height or skin tone, are 'polygenic'—many genes work together, like a team. That’s why people come in so many shades and sizes! Even the environment plays a role. Imagine your genes as ingredients and your life as the recipe. What makes you unique?",
+    "image_prompt": "A diverse group of teenagers laughing together, with a DNA helix made of mixed colors blending into a gradient, symbolizing polygenic traits."
+  },
+  {
+    "slide": 6,
+    "text": "Mutations sound scary, but they’re just random changes in genes. Most don’t do much, but some can be helpful—like bacteria becoming antibiotic-resistant. Others cause conditions like sickle cell anemia. Mutations are nature’s way of experimenting. Without them, evolution wouldn’t happen! Can you think of a helpful mutation?",
+    "image_prompt": "A split image: one side showing a DNA strand with a glowing 'mutation' spot, the other side showing a superhero-themed bacteria fighting antibiotics."
+  },
+  {
+    "slide": 7,
+    "text": "DNA is like a secret code with 4 letters: A, T, C, and G. These letters pair up to form the double helix—a twisted ladder. Your entire body is built from this code! If unwound, your DNA could stretch to the sun and back. Talk about a microscopic masterpiece! How would you design your own DNA code?",
+    "image_prompt": "A 3D cartoon DNA double helix with colorful letters (A, T, C, G) as rungs, stretching into space toward a smiling sun."
+  },
+  {
+    "slide": 8,
+    "text": "Genetic testing lets scientists read your DNA like a fortune teller. It can reveal risks for diseases or even your ancestry. But with great power comes great responsibility—should everyone know their genetic future? It’s a debate for the next generation of scientists—maybe you!",
+    "image_prompt": "A sci-fi lab scene with a teen looking at a holographic DNA screen showing icons for health, ancestry, and a question mark, with a futuristic aesthetic."
+  },
+  {
+    "slide": 9,
+    "text": "From cloning Dolly the sheep to CRISPR gene editing, science is unlocking DNA’s secrets. We can now tweak genes to fight diseases or grow better crops. But should we? With great power comes big questions. The future of genetics is in your hands—what will you create?",
+    "image_prompt": "A split image: one side showing a cute cloned sheep with a DNA tag, the other side showing scientists using CRISPR tools on a glowing DNA strand."
+  },
+  {
+    "slide": 10,
+    "text": "Inheritance is everywhere—in your pets, your food, and even you! It’s the invisible thread connecting generations. Now that you know the basics, look around: can you spot inheritance in action? The next big genetic discovery might start with you. What will you uncover?",
+    "image_prompt": "A collage of diverse elements: a family tree, a bowl of genetically modified fruit, a dog with unique markings, and a teen looking through a magnifying glass at DNA."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine your laptop is like a super-powered backpack! It holds all your books, notes, and even connects you to a world of knowledge online. From writing essays to creating cool videos, it’s your ultimate sidekick for school and beyond. Ever wondered how it can do so much? Let’s peek inside the magic!",
+    "image_prompt": "A colorful, futuristic backpack opening to reveal books, a laptop, and glowing digital icons like a Wi-Fi symbol and a play button, with a curious student looking amazed."
+  },
+  {
+    "slide": 2,
+    "text": "Think of your laptop’s brain—the CPU—like a chef in a kitchen. It follows recipes (programs) to cook up tasks, from solving math problems to streaming games. The more cores it has, the faster it works! Want to edit videos or play the latest game? That’s where a good GPU comes in—it’s like adding a master artist to the team!",
+    "image_prompt": "A playful kitchen scene where a cartoon CPU chef stirs a pot of 'data soup' while a GPU artist paints a vibrant game scene on a nearby canvas, with tech gadgets as kitchen tools."
+  }
+]

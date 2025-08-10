@@ -1,0 +1,50 @@
+# ---- Python Virtual Environments ----
+explainer_env/
+venv/
+.venv/
+env/
+
+# ---- Python Cache Files ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ---- Build / Packaging ----
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ---- Output / Generated Media ----
+output/
+*.mp4
+*.wav
+*.mp3
+*.m4a
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+
+# ---- Logs / Temp ----
+*.log
+logs/
+tmp/
+temp/
+
+# ---- IDE / Editor Config ----
+.vscode/
+.idea/
+
+# ---- OS Specific ----
+.DS_Store
+Thumbs.db
+
+# ---- Model / Large Files ----
+*.pt
+*.bin
+*.onnx
+*.ckpt
+*.safetensors

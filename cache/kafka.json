@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine you’re trying to send a message to a friend, but it keeps getting lost in a maze of confusing rules. That’s a bit like what Kafka is about! Kafka is a tool that helps huge amounts of data move smoothly between apps, like a super-organized postal service for the digital world. Let’s dive in!",
+    "image_prompt": "A futuristic postal service with robots sorting and delivering envelopes through a maze of tubes and conveyor belts, with a friendly robot waving at the viewer."
+  },
+  {
+    "slide": 2,
+    "text": "Think of Kafka like a school announcement system. When the principal makes an announcement, it goes to every classroom at once. Kafka does the same with data—sending updates instantly to all the apps that need them. No waiting, no delays!",
+    "image_prompt": "A school principal speaking into a microphone, with sound waves traveling down hallways and into classrooms where students are listening attentively."
+  },
+  {
+    "slide": 3,
+    "text": "Ever played a multiplayer game where everyone sees the same action at the same time? Kafka makes that possible! It ensures data is shared in real-time, so whether you’re gaming or tracking deliveries, everything stays in sync.",
+    "image_prompt": "A group of teenagers playing an online multiplayer game on their devices, with a shared screen showing synchronized actions like explosions or character movements."
+  },
+  {
+    "slide": 4,
+    "text": "Kafka works with 'topics'—think of them as chat groups for data. For example, a weather app might have a 'temperature' topic. Any app that joins this topic gets live updates whenever the temperature changes. Simple, right?",
+    "image_prompt": "A smartphone showing a weather app with a chat group labeled 'Temperature,' where messages like '72°F' and '75°F' are popping up in real-time."
+  },
+  {
+    "slide": 5,
+    "text": "Producers and consumers are key in Kafka. Producers (like sensors) send data, while consumers (like apps) receive it. Picture a vending machine: you (producer) press a button, and the machine (consumer) gives you a snack. Kafka is the invisible middleman making it happen!",
+    "image_prompt": "A vending machine with a hand pressing a button, and a snack sliding down into the pickup tray, with arrows showing the flow of the action."
+  },
+  {
+    "slide": 6,
+    "text": "Kafka is super reliable. Even if your phone loses signal for a second, it won’t miss any data. It’s like a DVR for your favorite show—if you miss something, you can rewind and catch up later!",
+    "image_prompt": "A smartphone buffering a video stream, with a progress bar showing where it paused and then resumed, backed by a server with 'Kafka' labeled on it."
+  },
+  {
+    "slide": 7,
+    "text": "Big companies like Netflix and Uber use Kafka to handle millions of updates every second. Imagine coordinating all those ride requests or video streams without it—chaos! Kafka keeps everything running smoothly.",
+    "image_prompt": "A bustling city map with tiny Ubers and Netflix logos moving around, connected by glowing lines to a central Kafka hub."
+  },
+  {
+    "slide": 8,
+    "text": "Kafka isn’t just for tech giants—it’s everywhere! Your school might use it to track cafeteria inventory or bus schedules. It’s the silent hero making sure systems talk to each other behind the scenes.",
+    "image_prompt": "A school cafeteria with a digital inventory screen updating in real-time as students take food, and a bus schedule board syncing with GPS data."
+  },
+  {
+    "slide": 9,
+    "text": "Curious how you can try Kafka? There are free tools online to play with! You could create a mini project, like a live meme feed or a pizza order tracker. The possibilities are endless—what would you build?",
+    "image_prompt": "A laptop screen showing a simple coding interface with Kafka, with fun icons like memes and pizzas popping up as data streams."
+  },
+  {
+    "slide": 10,
+    "text": "So, Kafka is like the ultimate data traffic controller—fast, reliable, and everywhere. Next time you stream a show or order food, remember the tech making it happen! Want to learn more? Check out free resources online and start experimenting. The digital world is yours to explore!",
+    "image_prompt": "A futuristic cityscape with data streams flowing between buildings, controlled by a friendly robot wearing a traffic cop hat labeled 'Kafka.'"
+  }
+]

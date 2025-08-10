@@ -1,0 +1,52 @@
+[
+  {
+    "slide": 1,
+    "text": "Imagine building a car, but for space! That’s essentially what a spacecraft is—a vehicle designed to travel beyond Earth. From the Moon landings to Mars rovers, spacecraft help us explore the cosmos. Think of them as cosmic taxis, carrying astronauts, satellites, or even robots to distant worlds. Ready to blast off and learn how these incredible machines work? Let’s go!",
+    "image_prompt": "A futuristic spacecraft hovering above Earth, with glowing engines and stars in the background."
+  },
+  {
+    "slide": 2,
+    "text": "Spacecraft come in all shapes and sizes! Some, like the Apollo capsules, carry astronauts. Others, like the Voyager probes, are unmanned and explore deep space. There are even space telescopes like Hubble, which act as giant eyes in the sky. Each type has a unique mission. Can you guess which spacecraft has traveled the farthest from Earth?",
+    "image_prompt": "A collage of different spacecraft types: a crewed capsule, a robotic probe, and a space telescope."
+  },
+  {
+    "slide": 3,
+    "text": "How does a spacecraft leave Earth? Rockets! These powerful machines use controlled explosions to break free from gravity. Imagine strapping a million fireworks together—that’s the kind of energy needed! Once in space, the spacecraft separates from the rocket. Fun fact: The Saturn V rocket that took astronauts to the Moon was as tall as a 36-story building!",
+    "image_prompt": "A massive rocket launching into space with fiery exhaust, leaving a thick smoke trail."
+  },
+  {
+    "slide": 4,
+    "text": "Once in space, how does a spacecraft move? No air means no wings or propellers! Instead, they use thrusters—small engines that shoot out gas to push the craft forward. It’s like floating on ice and throwing a heavy ball to glide the opposite way. This is Newton’s Third Law in action: for every action, there’s an equal and opposite reaction!",
+    "image_prompt": "A spacecraft in zero gravity firing small thrusters to adjust its direction, with tiny jets of gas visible."
+  },
+  {
+    "slide": 5,
+    "text": "Surviving in space is tough! Spacecraft need shields to block radiation, insulation to handle extreme temperatures, and airtight cabins for astronauts. Imagine a thermos—it keeps drinks hot or cold, right? A spacecraft is like a high-tech thermos, protecting its passengers from the deadly cold of shadow and scorching heat of sunlight.",
+    "image_prompt": "A cross-section of a spacecraft showing layers of insulation, shields, and a cozy astronaut cabin inside."
+  },
+  {
+    "slide": 6,
+    "text": "How do spacecraft communicate with Earth? Giant antennas! The Deep Space Network is like a cosmic Wi-Fi system, with dishes around the world always pointing at distant probes. Even at the speed of light, signals from Mars take 20 minutes to reach us. That means if you sent a message to a rover, you’d wait 40 minutes for a reply!",
+    "image_prompt": "A large satellite dish under a starry sky, sending beams of light toward a distant spacecraft."
+  },
+  {
+    "slide": 7,
+    "text": "Some spacecraft never return home—they become eternal explorers. Voyager 1, launched in 1977, is now in interstellar space, carrying a golden record with sounds and images of Earth. It’s like a message in a bottle, but for aliens! Meanwhile, the Parker Solar Probe ‘touches’ the Sun, studying its atmosphere. What would you include in a message to aliens?",
+    "image_prompt": "The Voyager spacecraft drifting through deep space, with a glowing golden record visible on its side."
+  },
+  {
+    "slide": 8,
+    "text": "Spacecraft aren’t just for professionals—students like you have launched them too! CubeSats are tiny satellites, some built by schools, that hitch rides on rockets. Imagine your science project orbiting Earth! Companies like SpaceX are even making reusable rockets, landing like something out of sci-fi. The future of space travel is in your hands—what would you explore?",
+    "image_prompt": "A small CubeSat satellite being held by students, with a reusable rocket landing in the background."
+  },
+  {
+    "slide": 9,
+    "text": "What’s next? Moon bases, Mars colonies, and maybe even faster-than-light travel! NASA’s Artemis program aims to return humans to the Moon, while SpaceX dreams of a city on Mars. Scientists are testing wild ideas like solar sails and warp drives. The next big spacecraft breakthrough could come from YOU. What cosmic adventure would you design?",
+    "image_prompt": "A futuristic Mars colony with domed habitats, spacecraft landing nearby, and astronauts working outside."
+  },
+  {
+    "slide": 10,
+    "text": "Spacecraft are humanity’s ultimate adventure machines—bridging Earth to the stars. Whether it’s planting flags on the Moon or discovering alien oceans, these engineering marvels make the impossible possible. So keep looking up! Who knows? Maybe one day, you’ll pilot a spacecraft to a distant world. The universe is waiting. Ready to explore?",
+    "image_prompt": "A diverse group of students gazing at a starry sky, with a spacecraft silhouetted against the Milky Way."
+  }
+]
