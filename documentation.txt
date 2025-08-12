@@ -100,14 +100,6 @@ You’ll see a prompt where you can type questions to the LLM.
 
 12. For images in the slides (hugging face)
 pip install requests
-https://platform.stability.ai/account/keys
-API_KEY = "sk-VHxzg5PVaDjXZhdy4ZGxOjp6cXucH4RUFaYpQC3Y9CJJdaVn"
-
-
-Given by Prashanth for script generation
-sk-0c3bb21abd1b470a9675bef005303235
- 
-DeepSeek-R1
 
 13.Auth based
 pip install streamlit streamlit-authenticator
