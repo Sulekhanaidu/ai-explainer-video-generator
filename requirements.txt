@@ -9,3 +9,6 @@ moviepy==1.0.3
 numpy
 scipy
 python-dotenv
+pydub
+pillow==9.5.0
+openai-whisper==20250625
