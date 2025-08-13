@@ -40,44 +40,26 @@ def authenticate_user(username, password):
 # -----------------
 # Streamlit App UI
 # -----------------
-st.title("🧠 AI Explainer Video Generator")
-
 if "authenticated" not in st.session_state:
     st.session_state.authenticated = False
 if "page" not in st.session_state:
     st.session_state.page = "login"
+if "username" not in st.session_state:
+    st.session_state.username = None
 
-# Page switcher
-if st.session_state.page == "login":
-    page = st.sidebar.radio("Select", ["Login", "Register"])
+# -----------------
+# Main App Logic
+# -----------------
+st.title("🧠 AI Explainer Video Generator")
 
-    if page == "Register":
-        st.subheader("Create a New Account")
-        new_user = st.text_input("Username")
-        new_password = st.text_input("Password", type="password")
-        if st.button("Register"):
-            if register_user(new_user, new_password):
-                st.success("✅ Registered! You can now log in.")
-            else:
-                st.error("🚫 Username already exists.")
-
-    elif page == "Login":
-        st.subheader("Login to Continue")
-        username = st.text_input("Username")
-        password = st.text_input("Password", type="password")
-        if st.button("Login"):
-            if authenticate_user(username, password):
-                st.session_state.authenticated = True
-                st.session_state.username = username
-                st.session_state.page = "main"  # 🔁 switch to main page
-                st.rerun()  # 🔄 force rerun to refresh UI
-            else:
-                st.error("❌ Invalid credentials")
-
-# Main page after login
-elif st.session_state.page == "main" and st.session_state.authenticated:
-    st.sidebar.button("🔒 Logout", on_click=lambda: st.session_state.update({"authenticated": False, "page": "login"}))
-
+if st.session_state.authenticated:
+    # MAIN PAGE
+    st.sidebar.button(
+        "🔒 Logout",
+        on_click=lambda: st.session_state.update(
+            {"authenticated": False, "page": "login", "username": None}
+        )
+    )
     st.success(f"Welcome, {st.session_state.username} 👋")
     st.markdown('<div class="main-title">🧠 AI Explainer Video Generator</div>', unsafe_allow_html=True)
 
@@ -110,26 +92,18 @@ elif st.session_state.page == "main" and st.session_state.authenticated:
     """, unsafe_allow_html=True)
 
     topic = st.text_input("Enter your topic here:")
-
     add_subtitles = st.checkbox("Include subtitles in the video", value=True)
     use_ai_images = st.checkbox("Use AI-generated images", value=True)
-    num_slides = st.slider("Select number of slides", min_value=1, max_value=20, value=15)
+    num_slides = st.slider("Select number of slides", 1, 20, 15)
     use_cache = st.checkbox("Use Cached Script if Available", value=False)
 
     if st.button("Generate Video"):
         if topic.strip():
             safe_topic = sanitize_topic(topic)
             with st.spinner("Generating video..."):
-                run_pipeline(safe_topic, add_subtitles=add_subtitles, use_ai_images=use_ai_images,
-                             num_slides=num_slides, use_cache=use_cache)
-
+                run_pipeline(safe_topic, add_subtitles, use_ai_images, num_slides, use_cache)
             st.success("✅ Video generated successfully!")
-
-            video_path = (
-                f"output/{safe_topic}/final_video_with_subs.mp4"
-                if add_subtitles else
-                f"output/{safe_topic}/final_video.mp4"
-            )
+            video_path = f"output/{safe_topic}/final_video_with_subs.mp4" if add_subtitles else f"output/{safe_topic}/final_video.mp4"
             if os.path.exists(video_path):
                 st.video(video_path)
                 with open(video_path, "rb") as f:
@@ -139,3 +113,29 @@ elif st.session_state.page == "main" and st.session_state.authenticated:
         else:
             st.warning("Please enter a topic.")
 
+else:
+    # LOGIN / REGISTER PAGE
+    page = st.sidebar.radio("Select", ["Login", "Register"])
+
+    if page == "Register":
+        st.subheader("Create a New Account")
+        new_user = st.text_input("Username")
+        new_password = st.text_input("Password", type="password")
+        if st.button("Register"):
+            if register_user(new_user, new_password):
+                st.success("✅ Registered! You can now log in.")
+            else:
+                st.error("🚫 Username already exists.")
+
+    elif page == "Login":
+        st.subheader("Login to Continue")
+        username = st.text_input("Username")
+        password = st.text_input("Password", type="password")
+        if st.button("Login"):
+            if authenticate_user(username, password):
+                st.session_state.authenticated = True
+                st.session_state.username = username
+                st.session_state.page = "main"
+                st.rerun()
+            else:
+                st.error("❌ Invalid credentials")
